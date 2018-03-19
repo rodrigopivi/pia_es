@@ -38,5 +38,5 @@ fs.readdirSync("./intents").forEach(filename => {
     }, null, 2);
     const rasaTestingDataset = JSON.stringify(testing, null, 2);
     fs.writeFileSync(`./dataset/training/${fileNameWithoutExt}_${training.length}.json`, rasaTrainingDataset);
-    fs.writeFileSync(`./dataset/testing/${fileNameWithoutExt}_${testing.length}.json`, JSON.stringify(testing, null, 2));
+    fs.writeFileSync(`./dataset/testing/${fileNameWithoutExt}_${testing.length}.json`, rasaTestingDataset);
 });
