@@ -4,6 +4,7 @@
   "description": "Starter kit para crear un asistente personal o chatbot usando chatito y rasa nlu",
   "main": "build.js",
   "scripts": {
+    "postinstall": "python -m spacy download es && python -m spacy download es_core_news_md",
     "generate:setup": "rm -rf dataset && mkdir dataset && mkdir dataset/training && mkdir dataset/testing",
     "generate:dataset": "npm run generate:setup && node build",
     "evaluate": "rm -f evaluation_results.json && node evaluate",
