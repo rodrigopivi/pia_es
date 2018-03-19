@@ -3,6 +3,7 @@
     "pipeline": "spacy_sklearn",
     "path" : "./rasa_project",
     "data" : "./dataset/training",
+    "cors_origins": ["*"],
     "language" : "es",
     "spacy_model_name" : "es_core_news_md"
 }
