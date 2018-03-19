@@ -1,0 +1,637 @@
+{
+  "rasa_nlu_data": {
+    "regex_features": [],
+    "common_examples": [
+      {
+        "text": "pya titulares de noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pia informame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pya titulares de noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pya por favor muestrame los titulares",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "por favor actualizame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pia por favor informame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola informame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey porfavor lee noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey titulares de noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pya porfavor titulares de noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pia porfa muestrame los titulares",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pya por favor actualizame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola muestrame los titulares",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pya porfa quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pya quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pia por favor lee noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pya porfa quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pia porfavor informame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pya porfavor informame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pya porfa informame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pia quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pia por favor muestrame los titulares",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pya quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pya porfavor titulares de noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "por favor muestrame los titulares",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pia porfa quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pia lee noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "por favor informame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola por favor quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "porfavor quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pya porfavor muestrame los titulares",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pya actualizame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pya por favor quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pya quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola por favor muestrame los titulares",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola por favor actualizame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey porfavor actualizame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pia por favor titulares de noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pya por favor actualizame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pia porfavor actualizame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola porfavor quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pya porfa lee noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pia por favor actualizame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pia porfa quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pia porfa quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola actualizame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "informame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pya porfa actualizame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey por favor actualizame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "por favor titulares de noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pia porfavor muestrame los titulares",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey porfavor quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "porfavor actualizame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pia por favor titulares de noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "porfavor titulares de noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pya por favor quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola porfavor titulares de noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pya por favor quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola porfa titulares de noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pia porfa quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola porfa quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey por favor muestrame los titulares",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pya porfavor lee noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pia quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey porfa quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey por favor quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pya porfa quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola por favor informame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "porfa titulares de noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola porfavor lee noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pia quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pia porfavor quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pia porfavor informame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "muestrame los titulares",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pia porfavor informame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pia porfavor quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pya por favor actualizame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "porfa actualizame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pia porfavor quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pia quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pya porfa informame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola porfa quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pya informame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pia porfavor titulares de noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pya porfa quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pya quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pya porfavor quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pya por favor informame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pia por favor muestrame los titulares",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pia por favor quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pya lee noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey actualizame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "por favor lee noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pya porfavor actualizame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey por favor lee noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pya porfavor lee noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "lee noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pya por favor quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pya informame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pya porfa titulares de noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "titulares de noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pya por favor informame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pya porfavor lee noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "actualizame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey por favor titulares de noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pya porfavor quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey porfa muestrame los titulares",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pya porfa titulares de noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey porfa quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pya por favor quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pia quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pya porfa quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pya por favor informame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pya porfavor muestrame los titulares",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pia actualizame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pia por favor lee noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pya quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pia porfa quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey lee noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "pia porfa muestrame los titulares",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola por favor quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hey pia por favor actualizame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola porfavor informame",
+        "intent": "titulares",
+        "entities": []
+      },
+      {
+        "text": "hola pia por favor quiero las noticias",
+        "intent": "titulares",
+        "entities": []
+      }
+    ]
+  }
+}

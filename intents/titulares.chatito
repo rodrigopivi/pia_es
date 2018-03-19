@@ -1,0 +1,24 @@
+%[titulares]
+    ~[hola]? ~[bot]? ~[porfavor]? ~[noticias]
+
+~[noticias]
+    lee noticias
+    informame
+    quiero las noticias
+    actualizame
+    quiero las noticias
+    muestrame los titulares
+    titulares de noticias
+
+~[hola]
+    hey
+    hola
+
+~[bot]
+    pia
+    pya
+
+~[porfavor]
+    porfavor
+    porfa
+    por favor

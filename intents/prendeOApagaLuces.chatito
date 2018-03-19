@@ -1,0 +1,45 @@
+%[prendeOApagaLuces]
+    ~[hola]? ~[bot]? ~[porfavor]? @[prendeOApaga] ~[luces]?
+
+@[prendeOApaga]
+    ~[prende]
+    ~[apaga]
+
+~[luces]
+    luces
+    luz
+    la iluminacion
+
+~[prende]
+    prende
+    activa
+    enciende
+    ilumina
+    prender
+    activar
+    encender
+    iluminar
+
+~[apaga]
+    apaga
+    apagar
+    desactiva
+    desactivar
+    oscurece
+    oscurecer
+
+~[hola]
+    hola
+    hey
+    oye
+    oe
+    escuchame
+
+~[bot]
+    pia
+    pya
+
+~[porfavor]
+    porfavor
+    porfa
+    por favor

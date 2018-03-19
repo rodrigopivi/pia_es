@@ -1,0 +1,36 @@
+%[marcadoresDeportivos]
+    ~[hola]? ~[bot]? ~[porfavor]? ~[marcadores]
+
+~[marcadores]
+    ~[quieroSaber] ~[scoresDeportivos]
+
+~[hola]
+    hey
+    hola
+
+~[bot]
+    pia
+    pya
+
+~[porfavor]
+    porfavor
+    porfa
+    por favor
+
+~[quieroSaber]
+    quiero saber
+    informame
+    dime
+    dame
+    cual es
+    cuales son
+    actualizame
+    muestrame
+
+~[scoresDeportivos]
+    scores deportivos
+    marcadores
+    resultados deportivos
+    los resultados
+    los marcadores
+    como quedaron los partidos

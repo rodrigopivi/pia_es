@@ -1,0 +1,30 @@
+%[cuentaChiste]
+    ~[hola]? ~[bot]? ~[mePuedesContarUnChiste]
+
+~[hola]
+    hey
+    hola
+
+~[bot]
+    pia
+    pya
+
+~[mePuedesContarUnChiste]
+    ~[mePuedesContar]? ~[unChiste] ~[porfavor]?
+
+~[unChiste]
+    un chiste
+    algo gracioso
+    hasme reir
+    animame
+
+~[mePuedesContar]
+    me puedes contar
+    cuentame
+    cuentate
+    comparte
+
+~[porfavor]
+    porfavor
+    porfa
+    por favor

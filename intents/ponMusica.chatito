@@ -1,0 +1,105 @@
+%[ponMusica]
+    ~[hola]? ~[bot]? ~[porfavor]? ~[ponMusica]
+    ~[unaCancionDe] @[artista]
+    ~[ponCancion] de @[artista] ~[gracias]?
+    quiero escuchar @[artista]
+    quiero escuchar @[cancion]
+    quiero escuchar @[cancion] de @[artista]
+    que suene @[cancion]
+    ~[porfavor]? de @[artista] ~[ponCancion] @[cancion] ~[gracias]?
+    ~[porfavor]? ~[ponCancion] @[cancion] de @[artista] ~[gracias]?
+
+@[artista]
+    beatles
+    daft punk
+    gustavo cerati
+    incubus
+    infected mushroom
+    perdo suarez
+    los cafres
+    marc anthony
+    savant
+    astrix
+    camila cabello
+    drake
+    don omar
+    daddy yankee
+    leuzemia
+
+@[cancion]
+    hey jude
+    yesterday
+    yellow submarine
+    one more time
+    discover
+    something about us
+    crimen
+    cosas imposibles
+    puente
+    drive
+    anna molly
+    are you in
+    vivir la vida
+    tu amor me hace bien
+    aguanile
+    al ramerio
+    al colegio no voy mas
+    demolicion
+    la gasolina
+    despacito
+    lo que paso paso
+    angelito vuela
+    danza kuduro
+    salio el sol
+    gods plan
+    one dance
+    havana
+    beyond the senses
+
+~[ponCancion]
+    pon
+    toca
+    quiero escuchar
+    el tema
+    la cancion
+    quiero que pongas una cancion
+
+~[unaCancionDe]
+    quiero escuchar una cancion de
+    pon algo de
+    musica de
+    canciones de
+    los temas de
+    el tema de
+    pon la de
+    play a la de
+    quiero escuchar a
+    pon el tema de
+    quiero escuchar el tema de
+
+~[ponMusica]
+    pon musica
+    musica
+    quiero escuchar algo
+    ponte algo para escuchar
+    pon lo que sea
+
+~[hola]
+    hey
+    hola
+
+~[bot]
+    pia
+    piia
+    piaa
+
+~[porfavor]
+    porfavor
+    porfa
+    por favor
+
+~[gracias]
+    gracias
+    muchas gracias
+    si puedes
+    te lo agradezco

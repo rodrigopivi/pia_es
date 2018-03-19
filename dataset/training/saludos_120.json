@@ -1,0 +1,607 @@
+{
+  "rasa_nlu_data": {
+    "regex_features": [],
+    "common_examples": [
+      {
+        "text": "holi amiga pia saludos",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "amiga pia saludos",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "holi piaa saludos",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "asistente",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "pya como te encuentras",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hola pya saludos",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "holi amiga pia todo bien",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "holi todo bien",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hi pia como estas",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hola piia saludos",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "como estas",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "asistente saludos",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hi piiia",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey pya que tal",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey amiga pia que tal",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey pya todo bien",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey piiia que tal",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey pia como estas",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "holi pia saludos",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey asistente todo bien",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "piaa",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hola pia todo bien",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hola que tal",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "holi",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hi amiga pia",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "pya todo bien",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "asistente como estas",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "holi pia",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "holi asistente que tal",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hola pya todo bien",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hi que tal",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "piiia todo bien",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "piiia que tal",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hi asistente todo bien",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey asistente como estas",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hola piia que tal",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hi pia saludos",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hola pya",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hi piaa",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey amiga pia como estas",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "piaa que tal",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey pya",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey pia todo bien",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hola piia",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "pya",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hola piiia",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hi como te encuentras",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey pya saludos",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hola pya como te encuentras",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hi pia",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "holi piaa todo bien",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "piia todo bien",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hi asistente como te encuentras",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "amiga pia",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey como te encuentras",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hi piia como te encuentras",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "holi pia todo bien",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey piiia saludos",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey piia saludos",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "amiga pia todo bien",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "pia saludos",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "piaa como estas",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "holi piiia saludos",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "holi amiga pia como estas",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "asistente que tal",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hola pya que tal",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey pia",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "piia",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "holi pia como estas",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hi pia como te encuentras",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hola piiia saludos",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "pia",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hola piaa todo bien",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hola amiga pia como te encuentras",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey pya como te encuentras",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "holi como estas",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey asistente como te encuentras",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "holi piia como estas",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "holi piaa como te encuentras",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey piaa saludos",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "holi como te encuentras",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "holi pya como te encuentras",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hi piiia todo bien",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hola pya como estas",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hi pya que tal",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey piaa todo bien",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey amiga pia saludos",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "holi asistente como te encuentras",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "asistente como te encuentras",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hi piia saludos",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hi piaa todo bien",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "piaa saludos",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hola piaa como estas",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey asistente que tal",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hi asistente que tal",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey piiia",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "holi piiia todo bien",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey piaa",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "piiia como estas",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "pya saludos",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey piaa como estas",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hola piiia como estas",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey piia como estas",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey asistente",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hi piia",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "holi pya que tal",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "pya como estas",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hola como estas",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hola amiga pia todo bien",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hola pia como te encuentras",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey que tal",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "holi amiga pia como te encuentras",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hola piia como estas",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "holi piiia que tal",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "hey piia todo bien",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "amiga pia como estas",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "pia como te encuentras",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "piaa como te encuentras",
+        "intent": "saludos",
+        "entities": []
+      },
+      {
+        "text": "asistente todo bien",
+        "intent": "saludos",
+        "entities": []
+      }
+    ]
+  }
+}

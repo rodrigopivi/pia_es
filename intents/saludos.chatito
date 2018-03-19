@@ -1,0 +1,27 @@
+%[saludos]
+    ~[hola] ~[bot]? ~[comoEstas]?
+
+~[hola]
+    hey
+    hi
+    holi
+    ~[hi]?
+
+~[hi]
+    hola
+
+~[bot]
+    pia
+    piiia
+    piaa
+    piia
+    pya
+    amiga pia
+    asistente
+
+~[comoEstas]
+    como estas
+    que tal
+    todo bien
+    como te encuentras
+    saludos

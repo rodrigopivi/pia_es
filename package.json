@@ -1,0 +1,20 @@
+{
+  "name": "pia_es",
+  "version": "1.0.0",
+  "description": "Starter kit para crear un asistente personal o chatbot usando chatito y rasa nlu",
+  "main": "build.js",
+  "scripts": {
+    "generate:setup": "rm -rf dataset && mkdir dataset && mkdir dataset/training && mkdir dataset/testing",
+    "generate:dataset": "npm run generate:setup && node build",
+    "evaluate": "rm -f evaluation_results.json && node evaluate",
+    "train": "python -m rasa_nlu.train -c config_spacy.json",
+    "start": "python -m rasa_nlu.server -c config_spacy.json"
+  },
+  "author": "Rodrigo Pimentel",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chatito": "^1.1.1",
+    "lodash": "^4.17.5"
+  }
+}
