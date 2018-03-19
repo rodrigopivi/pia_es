@@ -20,7 +20,7 @@
         }
         * { box-sizing: border-box; }
         a { text-decoration: none; }
-        body { box-sizing: border-box; }
+        body { box-sizing: border-box; padding: 24px; }
         h1, h2 { display: inline; }
         h1 > a, h2 > a { color: #990adb; }
         h1 { font-size: "32px"; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; }
@@ -30,6 +30,7 @@
     <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.26.0/babel.min.js"></script>
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="https://cdn.rawgit.com/CookPete/react-player/87974efc/dist/ReactPlayer.js"></script>
 </head>
 
 <body>
@@ -66,7 +67,10 @@ SystemJS.import("react-simple-chatbot").then(function (ChatBotLib) {
         "Había una piña colada y la sacaron de la fila.",
         "Soy una asistente, no un payaso",
         "¿Cuál es el colmo de Aladino? Tener un mal genio.",
-    ]
+    ];
+    const YOUTUBE_API_KEY = "AIzaSyBtqW2hAcQB3fzz76eUan0T1EhuK2B6PtQ";
+    const YOUTUBE_URL = "https://www.googleapis.com/youtube/v3/search";
+    let LUCES = true;
     class PiaResponses extends React.Component {
         state = { loading: true, response: "", trigger: false };
         mounted = false;
@@ -76,51 +80,109 @@ SystemJS.import("react-simple-chatbot").then(function (ChatBotLib) {
                 this.setState({ trigger: true }, () => { this.props.triggerNextStep() });
             }
         }
-        getResponseFromIntentAndEntities = ({ intent, entities, intent_ranking, text }) => {
+        getResponseFromIntentAndEntities = async ({ intent, entities, intent_ranking, text }) => {
             const intentName = intent.name;
             const confidence = Math.round(parseFloat(intent.confidence, 10));
             if (confidence < 0.35) { return "No tengo certeza de que es lo que quieres... En qué te puedo ayudar?" } 
-            const ponMusica = () => {
+            const ponMusica = async () => {
                 const cancionObj = entities.find(({ entity }) => entity == "cancion");
                 const artistaObj = entities.find(({ entity }) => entity == "artista");
-                let cancion = "";
-                let artista = "";
-                if (cancionObj) { cancion = `, la cancion ${cancionObj.value}`; }
-                if (artistaObj) { artista = `del artista ${artistaObj.value}`; }
+                try {
+                    const q = entities.map(e => e.value).join(" ").trim();
+                    if (!q || !q.length) { return "Ok entiendo que quieres música, no me quedó claro que artista o cancion quieres escuchar..."}
+                    const response = await axios.get(YOUTUBE_URL, { params: {
+                        q, part: "snippet", key: YOUTUBE_API_KEY, maxResults: 1,
+                        type: "video", videoEmbeddable: true, videoSyndicated: true,
+                    }});
+                    if (response && response.data) {
+                        if (response.data.items && response.data.items.length) {
+                            const id = response.data.items[0].id.videoId;
+                            return (
+                                <ReactPlayer
+                                    url={`https://www.youtube.com/watch?v=${id}`}
+                                    width="151"
+                                    height="153"
+                                    youtubeConfig={{ playerVars: { autoplay: 1 } }}
+                                />
+                            );
+                        } else {
+                            let cancion = "";
+                            let artista = "";
+                            if (cancionObj) { cancion = `de la cancion ${cancionObj.value}`; }
+                            if (artistaObj) { artista = `del artista ${artistaObj.value}`; }
+                            return `No encontre resultados ${cancion} ${cancion}`;
+                        }
+                    } else { throw new Error("Invalid server response"); }
+                } catch (e) {
+                    return "Ups... Ocurrió un error con el servidor, ya sabes es gratuito... vuelve en 5 minutos, gracias!";
+                }
                 return `Entiendo que quieres musica ${cancion} ${artista}`
             }
             const prendeOApagaLuces = () => {
                 const prendeOApagaObj = entities.find(({ entity }) => entity == "prendeOApaga")
-                if (!prendeOApagaObj) {
-                    return `Entiendo que quieres un cambio en las luces, pero no entiendo si las quieres prendidas o apagadas`;
+                if (prendeOApagaObj.value === "prende") {
+                    if (LUCES) { return "Las luces ya estan prendidas. Te puedo ayudar en algo mas?"; }
+                    document.body.style.backgroundColor = "#FFF";
+                    LUCES = true;
+                    return "Luces prendidas. Te puedo ayudar en algo mas?"
+                } else if (prendeOApagaObj.value === "apaga") {
+                    if (!LUCES) { return "Las luces ya estan apagadas. Te puedo ayudar en algo mas?"; }
+                    document.body.style.backgroundColor = "#777";
+                    LUCES = false;
+                    return "Luces apagadas. Te puedo ayudar en algo mas?"
                 }
-                return `Entiendo que quieres que ${prendeOApagaObj.value} las luces`;
+                document.body.style.backgroundColor = document.body.style.backgroundColor === "#777" ? "#FFF" : "#777";
+                return "Listo, las luces cambiaron. Te puedo ayudar en algo mas?";
             };
+            const titulares = async () => {
+                try {
+                    const response = await axios.get("https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Felcomercio.pe%2Ffeed");
+                    if (response && response.data && response.data.items) {
+                        return response.data.items.slice(0, 5).map((n, i) => <p id={n.pubDate}>{n.title}</p>);
+                    } else { throw new Error("Invalid server response"); }
+                } catch (e) {
+                    return "Ups... Ocurrió un error con el servidor, ya sabes es gratuito... vuelve en 5 minutos, gracias!";
+                }
+            }
+            const marcadoresDeportivos = async () => {
+                try {
+                    const response = await axios.get("https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Felcomercio.pe%2Ffeed%2Fdeporte-total");
+                    if (response && response.data && response.data.items) {
+                        return response.data.items.slice(0, 5).map((n, i) => <p id={n.pubDate}>{n.title}</p>);
+                    } else { throw new Error("Invalid server response"); }
+                } catch (e) {
+                    return "Ups... Ocurrió un error con el servidor, ya sabes es gratuito... vuelve en 5 minutos, gracias!";
+                }
+            }
             const responseMap = {
                 afirmativo: () => "Me gusta tu positivismo",
                 cuentaChiste: () => CHISTES[Math.floor(Math.random() * CHISTES.length)],
                 despedida: () => "Hasta luego. Sigo atenta a tus necesidades",
-                marcadoresDeportivos: () => "Aun no se leer resultados deportivos",
+                marcadoresDeportivos,
                 negativo: () => "Ok, entiendo que no",
                 ponMusica,
                 prendeOApagaLuces,
                 saludos: () => ":), en que te puedo ayudar?",
-                titulares: () => "Aun no se leer titulares",
+                titulares,
                 wtf: () => "WTF?",
             };
             if (!responseMap[intentName]) { return "No te entiendo, en que te puedo ayudar?"; }
-            return responseMap[intentName]();
+            return await responseMap[intentName]();
         };
         queryApi = async () => {
             const { steps } = this.props;
-            const input = steps.input.value;
+            const input = steps.input.value.replace(/ +(?= )/g,"").toLowerCase();
             try {
                 const response = await axios.get(PIA_URL, { params: { q: input } })
                 if (response && response.data) {
-                    const resp = this.getResponseFromIntentAndEntities(response.data);
+                    const resp = await this.getResponseFromIntentAndEntities(response.data);
                     this.setState({ response: resp, loading: false }, () => this.triggetNext());
                 } else { throw new Error("Invalid server response"); }
-            } catch (e) { console.error(e); }
+            } catch (e) {
+                console.error(e);
+                const errMsg = "Ups... Ocurrió un error con el servidor, ya sabes es gratuito... vuelve en 5 minutos, gracias!"
+                this.setState({ response: errMsg, loading: false }, () => this.triggetNext());
+            }
         }
         componentDidMount () { this.mounted = true; }
         componentWillMount() { this.queryApi(); }
