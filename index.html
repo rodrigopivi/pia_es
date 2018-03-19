@@ -78,6 +78,8 @@ SystemJS.import("react-simple-chatbot").then(function (ChatBotLib) {
         }
         getResponseFromIntentAndEntities = ({ intent, entities, intent_ranking, text }) => {
             const intentName = intent.name;
+            const confidence = Math.round(parseFloat(intent.confidence, 10));
+            if (confidence < 0.35) { return "No tengo certeza de que es lo que quieres... En qué te puedo ayudar?" } 
             const ponMusica = () => {
                 const cancionObj = entities.find(({ entity }) => entity == "cancion");
                 const artistaObj = entities.find(({ entity }) => entity == "artista");
@@ -128,7 +130,7 @@ SystemJS.import("react-simple-chatbot").then(function (ChatBotLib) {
         }
     }
     const initialSteps = [
-        { id: "hi", message: "Me llamo Pia, soy tu asistente personal", trigger: "askinput" },
+        { id: "hi", message: "Hola soy Pia, tu asistente personal", trigger: "askinput" },
         { id: "askinput", message: "En qué te puedo ayudar?", trigger: "input" },
         { id: "input", trigger: "response", user: true, },
         { id: "response", trigger: "input", component: <PiaResponses />, waitAction: true, asMessage: true, },
