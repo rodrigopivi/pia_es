@@ -9,7 +9,7 @@
     "generate:dataset": "npm run generate:setup && node build",
     "evaluate": "rm -f evaluation_results.json && node evaluate",
     "train": "python -m rasa_nlu.train -c config_spacy.json",
-    "start": "python -m rasa_nlu.server -c config_spacy.json"
+    "start": "IPORT=${PORT:-5000} && python -m rasa_nlu.server -c config_spacy.json -P $IPORT"
   },
   "author": "Rodrigo Pimentel",
   "license": "MIT",
