@@ -1,0 +1,16 @@
+{
+  "iluminar": "prende",
+  "encender": "prende",
+  "prender": "prende",
+  "apagar": "apaga",
+  "activa": "prende",
+  "desactivar": "apaga",
+  "oscurece": "apaga",
+  "enciende": "prende",
+  "oscurecer": "apaga",
+  "desactiva": "apaga",
+  "muy oscuro": "prende",
+  "mucha luz": "apaga",
+  "ilumina": "prende",
+  "activar": "prende"
+}

@@ -3,12 +3,12 @@
     "regex_features": [],
     "common_examples": [
       {
-        "text": "me despido",
+        "text": "chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "adios",
+        "text": "me despido",
         "intent": "despedida",
         "entities": []
       },
@@ -18,17 +18,7 @@
         "entities": []
       },
       {
-        "text": "chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cuidate chau",
+        "text": "adios",
         "intent": "despedida",
         "entities": []
       },
@@ -39,6 +29,16 @@
       },
       {
         "text": "cambio y fuera",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cuidate chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "chau pia",
         "intent": "despedida",
         "entities": []
       }

@@ -1,0 +1,2887 @@
+{
+  "rasa_nlu_data": {
+    "regex_features": [],
+    "common_examples": [
+      {
+        "text": "hola cuenta bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuentame chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuentame un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia deseo que me cuentes un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuentame algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "me puedes contar algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia quiero que me cuentes chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia me puedes contar algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuenta un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentate un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuentate un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey me puedes contar algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye comparte un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "comparte chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentate chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey comparte animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuentate un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuenta un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia me puedes contar un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuenta animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuentate bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia deseo que me cuentes algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuentame un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia quiero que me cuentes bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia comparte algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey cuentate animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia deseo que me cuentes chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia matame de risa con un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye deseo que me cuentes algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye quiero que me cuentes animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia matame de risa con bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuentame bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola matame de risa con animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia me puedes contar chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuentame bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuentate animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola deseo que me cuentes animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuentame bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuenta un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentame bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentame un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola me puedes contar chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia comparte chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye me puedes contar un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia comparte animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia me puedes contar un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia deseo que me cuentes chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia matame de risa con chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia deseo que me cuentes un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia quiero que me cuentes bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuentame chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey comparte chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye quiero que me cuentes algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye cuentame bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia deseo que me cuentes chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia deseo que me cuentes chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuentame animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye comparte animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia quiero que me cuentes bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey matame de risa con animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuentame un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia deseo que me cuentes animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuentame chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "quiero que me cuentes animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia comparte algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuentame un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia me puedes contar un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye me puedes contar bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuentame un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia me puedes contar chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola deseo que me cuentes chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey comparte un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuentame chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuentate un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentate animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey comparte algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "matame de risa con animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuentate algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey matame de risa con un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia matame de risa con chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola quiero que me cuentes bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuenta un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia deseo que me cuentes algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuenta un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuenta un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "deseo que me cuentes chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia comparte un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuentame algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia comparte bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "deseo que me cuentes un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia matame de risa con un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia matame de risa con un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia me puedes contar chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuentate un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye comparte chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola comparte animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuenta animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia me puedes contar chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuenta bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuenta un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuentate animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey deseo que me cuentes bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia deseo que me cuentes chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye matame de risa con chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia matame de risa con chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "matame de risa con bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuentate un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia comparte animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye cuentate un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey cuenta bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuentate bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia deseo que me cuentes algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey quiero que me cuentes chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye me puedes contar chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia me puedes contar un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia comparte bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola me puedes contar un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuenta un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola quiero que me cuentes bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye matame de risa con animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey deseo que me cuentes bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia deseo que me cuentes un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye matame de risa con bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuentate un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola quiero que me cuentes chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye comparte un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia matame de risa con animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia me puedes contar chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia matame de risa con chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye comparte un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye comparte chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia deseo que me cuentes un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuentame un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia matame de risa con un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia matame de risa con un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia matame de risa con chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia matame de risa con chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia comparte chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuentame algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia comparte bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuenta un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia matame de risa con chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey me puedes contar un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia comparte un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye deseo que me cuentes bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia me puedes contar un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey quiero que me cuentes animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentate chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuentame un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye matame de risa con chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "matame de risa con un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuentame animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentate un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuentate animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey cuenta animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia comparte un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye matame de risa con un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuentame bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey cuentate algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye comparte bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuenta algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye comparte bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia deseo que me cuentes animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuenta algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia comparte chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuenta un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuentame un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia matame de risa con un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey cuenta algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia me puedes contar animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia matame de risa con un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuentame un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia matame de risa con algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentame un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia quiero que me cuentes chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia deseo que me cuentes un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia me puedes contar chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia me puedes contar bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye cuenta un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuentate un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuentame bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia me puedes contar un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "matame de risa con un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye comparte chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuentate chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia deseo que me cuentes animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuenta animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola deseo que me cuentes un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey cuenta chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye deseo que me cuentes bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia me puedes contar chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye quiero que me cuentes un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuentame bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "deseo que me cuentes bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "deseo que me cuentes un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuentate algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuentame bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentate algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuentate animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia deseo que me cuentes bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey me puedes contar algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey cuentame bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia matame de risa con un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuentate animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuentate un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola matame de risa con animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye quiero que me cuentes chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentame algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuentame chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia quiero que me cuentes un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuentate chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentame un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuenta algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey quiero que me cuentes un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia deseo que me cuentes animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia deseo que me cuentes un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuenta chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuentate algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia deseo que me cuentes chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola matame de risa con chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "deseo que me cuentes algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye cuenta bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuentame un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia matame de risa con un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuenta algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuentame algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye cuentate un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "comparte algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey me puedes contar chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola deseo que me cuentes bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye deseo que me cuentes chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia matame de risa con animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuentate un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia quiero que me cuentes algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia me puedes contar algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye me puedes contar un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia comparte algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia me puedes contar un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye cuenta chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuentame chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey comparte chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey matame de risa con un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuenta bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye comparte un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye matame de risa con un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey deseo que me cuentes chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia comparte un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuenta bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia deseo que me cuentes chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye deseo que me cuentes un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola comparte un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey cuentame algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia quiero que me cuentes un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuentate un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia comparte un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuentate animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye quiero que me cuentes un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye matame de risa con algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey quiero que me cuentes algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentate bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentame un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey matame de risa con algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuenta algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia quiero que me cuentes chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "matame de risa con chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey comparte un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuenta un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuentame chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia me puedes contar un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuentate chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuentate chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuenta bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey comparte algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey cuentame un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuentate un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "matame de risa con algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuentate algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuentame chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia matame de risa con un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey deseo que me cuentes un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "me puedes contar chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia deseo que me cuentes chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "me puedes contar un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia comparte bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "deseo que me cuentes chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuentame un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuenta bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye quiero que me cuentes bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola me puedes contar un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuenta un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "deseo que me cuentes un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia quiero que me cuentes algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia comparte chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuenta bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "deseo que me cuentes chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia matame de risa con chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia quiero que me cuentes animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia quiero que me cuentes chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuentate un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye quiero que me cuentes bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye quiero que me cuentes chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuenta chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuentate bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye cuentame un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuentame animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "matame de risa con un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia comparte un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuentame chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia me puedes contar un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuentate un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuenta chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "comparte chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia deseo que me cuentes un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia deseo que me cuentes algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuenta chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye comparte animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuentate bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia me puedes contar algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia deseo que me cuentes un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey quiero que me cuentes un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentame chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye me puedes contar chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuenta animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia comparte chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey deseo que me cuentes un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "me puedes contar algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuentate un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia me puedes contar chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia me puedes contar un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye deseo que me cuentes chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia deseo que me cuentes algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye me puedes contar animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia comparte un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia deseo que me cuentes un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye cuentate chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey cuentate algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuenta animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia matame de risa con bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentame chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuentame chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia quiero que me cuentes un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuenta chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia matame de risa con un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuentame un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuentame un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuentate un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey deseo que me cuentes chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia comparte un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey deseo que me cuentes algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "me puedes contar un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia quiero que me cuentes chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuentate chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye deseo que me cuentes animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia me puedes contar chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "quiero que me cuentes algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuentate chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia matame de risa con bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuentame chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentate chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuentate un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia me puedes contar bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey me puedes contar animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuenta animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye quiero que me cuentes un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia matame de risa con un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "comparte bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey me puedes contar un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia matame de risa con animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia deseo que me cuentes bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia deseo que me cuentes chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey matame de risa con chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentate un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentame algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola comparte chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia deseo que me cuentes un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia quiero que me cuentes bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "quiero que me cuentes chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey quiero que me cuentes un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye cuentame chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia comparte animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey cuentate chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey quiero que me cuentes chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuentame un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye me puedes contar un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuenta animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia quiero que me cuentes chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia comparte algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia me puedes contar chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey comparte bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia quiero que me cuentes chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia quiero que me cuentes chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia me puedes contar bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey quiero que me cuentes bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia me puedes contar animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuentame chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey comparte animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia deseo que me cuentes chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia comparte un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "me puedes contar un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia me puedes contar un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye me puedes contar un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia comparte un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia me puedes contar un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola quiero que me cuentes un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia deseo que me cuentes chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye cuentame chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia deseo que me cuentes un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye me puedes contar bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye matame de risa con un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia comparte chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuentate bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuenta chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia comparte un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuentame un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuenta un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia quiero que me cuentes algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuentame animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola comparte bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye deseo que me cuentes un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye cuenta un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola deseo que me cuentes un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola matame de risa con un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola quiero que me cuentes algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola matame de risa con chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey cuentate un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "quiero que me cuentes chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey me puedes contar animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuentame un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola me puedes contar chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye cuenta animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuentate algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey cuentame chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey matame de risa con animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye cuentate bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey me puedes contar un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia matame de risa con chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye comparte algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola deseo que me cuentes un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuenta algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuentate un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuentame un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuentame un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuentame bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye cuentame un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuenta chistes para reirme",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey cuentate un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia comparte animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey me puedes contar chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuenta chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "comparte algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia me puedes contar un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye cuentate bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola matame de risa con un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola me puedes contar un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey matame de risa con bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuentame algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye quiero que me cuentes chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuenta animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey cuentate un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuentame un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia quiero que me cuentes un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye me puedes contar algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye deseo que me cuentes chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye cuentate algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye deseo que me cuentes un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuentame bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia deseo que me cuentes un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola quiero que me cuentes animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuenta chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuentate chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey cuenta bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola me puedes contar chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey cuenta un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola quiero que me cuentes chistes por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentate un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia cuenta un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentate un chiste que quiero reir por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia quiero que me cuentes un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia comparte animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia comparte bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia me puedes contar bromas por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia me puedes contar un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "quiero que me cuentes un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia comparte un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye cuentame algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia deseo que me cuentes un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuenta un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey cuenta algo gracioso",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey quiero que me cuentes un chiste",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "cuentame animame",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia comparte un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuenta chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia matame de risa con bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia quiero que me cuentes un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola quiero que me cuentes algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia matame de risa con un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "pia me puedes contar algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey pia matame de risa con un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "matame de risa con chistes",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola cuenta algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey cuentame un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye matame de risa con un chiste por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey cuenta chistes para reirme por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola comparte bromas",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "deseo que me cuentes un chiste que quiero reir",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye un chistecito por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentate un chistecito",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hey cuentate animame por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      },
+      {
+        "text": "hola algo gracioso por favor",
+        "intent": "cuentaChiste",
+        "entities": []
+      }
+    ]
+  }
+}

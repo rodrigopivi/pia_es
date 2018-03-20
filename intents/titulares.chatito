@@ -1,14 +1,25 @@
 %[titulares]
-    ~[hola]? ~[bot]? ~[porfavor]? ~[noticias]
+    ~[hola]? ~[bot]? ~[porfavor]? ~[informame]? ~[noticias]
 
 ~[noticias]
-    lee noticias
-    informame
-    quiero las noticias
-    actualizame
-    quiero las noticias
-    muestrame los titulares
+    noticias
+    las noticias
+    las actualidades
+    noticias de actualidad
+    los titulares
     titulares de noticias
+    los periodicos
+    actulidad
+
+~[informame]
+    leeme
+    escribeme
+    informame
+    cuentame
+    quiero que me digas
+    dime
+    di
+    escribe
 
 ~[hola]
     hey
@@ -16,9 +27,6 @@
 
 ~[bot]
     pia
-    pya
 
 ~[porfavor]
-    porfavor
-    porfa
     por favor

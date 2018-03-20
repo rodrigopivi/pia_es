@@ -21,7 +21,7 @@ fs.readdirSync("./intents").forEach(filename => {
     fileNameWithoutExt = fileNameWithoutExt.join("");
     if (extension !== "chatito") { return null; }
     const chatitoGrammar = fs.readFileSync("./intents/" + filename, "utf8");
-    const dataset = shuffle(chatito.datasetFromString(chatitoGrammar));
+    let dataset = shuffle(chatito.datasetFromString(chatitoGrammar));
     // if too frew generated examples, just use the entire dataset corpus for training
     if (dataset.length < 50) {
         const rasaDataset = JSON.stringify({
@@ -30,7 +30,9 @@ fs.readdirSync("./intents").forEach(filename => {
         fs.writeFileSync(`./dataset/training/${fileNameWithoutExt}_${dataset.length}.json`, rasaDataset);
         return;
     }
-    const half = Math.round(dataset.length / 2);
+    let half = Math.round(dataset.length / 2);
+    // NOTE: Limit the training dataset to max 2k examples per intent
+    if (half > 2000) { half = 2000; }
     const training = dataset.slice(0, half);
     const testing = dataset.slice(half);
     const rasaTrainingDataset = JSON.stringify({

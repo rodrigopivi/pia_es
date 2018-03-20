@@ -1,5 +1,6 @@
 %[prendeOApagaLuces]
     ~[hola]? ~[bot]? ~[porfavor]? @[prendeOApaga] ~[luces]?
+    ~[luces] @[prendeOApaga]
 
 @[prendeOApaga]
     ~[prende]
@@ -19,6 +20,7 @@
     activar
     encender
     iluminar
+    muy oscuro
 
 ~[apaga]
     apaga
@@ -27,19 +29,15 @@
     desactivar
     oscurece
     oscurecer
+    mucha luz
 
 ~[hola]
     hola
     hey
     oye
-    oe
-    escuchame
 
 ~[bot]
     pia
-    pya
 
 ~[porfavor]
-    porfavor
-    porfa
     por favor

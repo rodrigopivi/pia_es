@@ -3,32 +3,7 @@
     "regex_features": [],
     "common_examples": [
       {
-        "text": "yes",
-        "intent": "afirmativo",
-        "entities": []
-      },
-      {
-        "text": "sii",
-        "intent": "afirmativo",
-        "entities": []
-      },
-      {
-        "text": "esta bien pia",
-        "intent": "afirmativo",
-        "entities": []
-      },
-      {
-        "text": "esta bien",
-        "intent": "afirmativo",
-        "entities": []
-      },
-      {
         "text": "pia",
-        "intent": "afirmativo",
-        "entities": []
-      },
-      {
-        "text": "sii pia",
         "intent": "afirmativo",
         "entities": []
       },
@@ -38,7 +13,7 @@
         "entities": []
       },
       {
-        "text": "",
+        "text": "si",
         "intent": "afirmativo",
         "entities": []
       },
@@ -48,17 +23,37 @@
         "entities": []
       },
       {
-        "text": "si",
-        "intent": "afirmativo",
-        "entities": []
-      },
-      {
         "text": "correcto pia",
         "intent": "afirmativo",
         "entities": []
       },
       {
-        "text": "afirmativo",
+        "text": "esta bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii",
         "intent": "afirmativo",
         "entities": []
       },
@@ -73,12 +68,17 @@
         "entities": []
       },
       {
-        "text": "si pia",
+        "text": "yes",
         "intent": "afirmativo",
         "entities": []
       },
       {
-        "text": "correcto",
+        "text": "sii pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo",
         "intent": "afirmativo",
         "entities": []
       }

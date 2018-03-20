@@ -4,10 +4,10 @@
 ~[hola]
     hey
     hola
+    oye
 
 ~[bot]
     pia
-    pya
 
 ~[mePuedesContarUnChiste]
     ~[mePuedesContar]? ~[unChiste] ~[porfavor]?
@@ -15,16 +15,22 @@
 ~[unChiste]
     un chiste
     algo gracioso
-    hasme reir
+    un chiste que quiero reir
     animame
+    un chistecito
+    chistes para reirme
+    bromas
+    chistes
 
 ~[mePuedesContar]
     me puedes contar
     cuentame
     cuentate
     comparte
+    quiero que me cuentes
+    deseo que me cuentes
+    cuenta
+    matame de risa con
 
 ~[porfavor]
-    porfavor
-    porfa
     por favor

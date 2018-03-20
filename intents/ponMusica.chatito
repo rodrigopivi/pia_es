@@ -1,11 +1,9 @@
 %[ponMusica]
-    ~[hola]? ~[bot]? ~[porfavor]? ~[ponMusica]
-    ~[unaCancionDe] @[artista]
-    ~[ponCancion] de @[artista] ~[gracias]?
-    quiero escuchar @[artista]
-    quiero escuchar @[cancion]
-    quiero escuchar @[cancion] de @[artista]
-    que suene @[cancion]
+    ~[hola]? ~[unaCancionDe] @[artista] ~[porfavor]?
+    ~[hola]? ~[ponCancion] de @[artista] ~[gracias]?
+    ~[queSuene] @[artista]
+    ~[queSuene] @[cancion]
+    ~[queSuene] @[cancion] de @[artista]
     ~[porfavor]? de @[artista] ~[ponCancion] @[cancion] ~[gracias]?
     ~[porfavor]? ~[ponCancion] @[cancion] de @[artista] ~[gracias]?
 
@@ -56,6 +54,15 @@
     havana
     beyond the senses
 
+~[queSuene]
+    ponte
+    pon
+    reproduce
+    quiero que reproduzcas
+    pon play a
+    que suene
+    quiero escuchar
+
 ~[ponCancion]
     pon
     toca
@@ -77,29 +84,15 @@
     pon el tema de
     quiero escuchar el tema de
 
-~[ponMusica]
-    pon musica
-    musica
-    quiero escuchar algo
-    ponte algo para escuchar
-    pon lo que sea
-
 ~[hola]
     hey
     hola
 
 ~[bot]
     pia
-    piia
-    piaa
 
 ~[porfavor]
     porfavor
-    porfa
-    por favor
 
 ~[gracias]
     gracias
-    muchas gracias
-    si puedes
-    te lo agradezco

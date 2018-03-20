@@ -3,22 +3,47 @@
     "regex_features": [],
     "common_examples": [
       {
-        "text": "nope",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "nope pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
         "text": "no pia",
         "intent": "negativo",
         "entities": []
       },
       {
+        "text": "",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "asi no es pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no esta bien",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "no quiero eso",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "negativo pia",
         "intent": "negativo",
         "entities": []
       },
@@ -33,42 +58,7 @@
         "entities": []
       },
       {
-        "text": "no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia",
+        "text": "negativo",
         "intent": "negativo",
         "entities": []
       },
@@ -78,7 +68,12 @@
         "entities": []
       },
       {
-        "text": "negativo",
+        "text": "no esta bien pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
         "intent": "negativo",
         "entities": []
       },
@@ -88,7 +83,12 @@
         "entities": []
       },
       {
-        "text": "asi no es pia",
+        "text": "nope pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto",
         "intent": "negativo",
         "entities": []
       }

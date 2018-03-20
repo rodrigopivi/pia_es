@@ -54,10 +54,12 @@ System.config({
     transpiler: "Babel", babelOptions: { presets: ["es2015"] },
     packages: { "https://rawgit.com": { defaultExtension: "js" }},
     map: {
+        "speakingurl": "https://cdnjs.cloudflare.com/ajax/libs/speakingurl/13.0.0/speakingurl.min.js",
         "react-simple-chatbot": "https://cdn.rawgit.com/LucasBassetti/react-simple-chatbot/efffdf6c/dist/react-simple-chatbot.js",
     }
 });
-SystemJS.import("react-simple-chatbot").then(function (ChatBotLib) {
+SystemJS.import("react-simple-chatbot").then((ChatBotLib) => {
+SystemJS.import("speakingurl").then((speakingurl) => {
     const ChatBot = ChatBotLib.default;
     const Loading = ChatBotLib.Loading;
     const PIA_URL = 'https://pia-es.herokuapp.com/parse';
@@ -67,6 +69,9 @@ SystemJS.import("react-simple-chatbot").then(function (ChatBotLib) {
         "Había una piña colada y la sacaron de la fila.",
         "Soy una asistente, no un payaso",
         "¿Cuál es el colmo de Aladino? Tener un mal genio.",
+        "¿Qué le dijo una morza a otra morza? ¿Almorzamos?",
+        "¿Cómo se llama un oso que cuenta chistes? Chist oso.",
+        "¿Qué animal hace pipi por la boca? El correcaminos."
     ];
     const YOUTUBE_API_KEY = "AIzaSyBtqW2hAcQB3fzz76eUan0T1EhuK2B6PtQ";
     const YOUTUBE_URL = "https://www.googleapis.com/youtube/v3/search";
@@ -120,12 +125,12 @@ SystemJS.import("react-simple-chatbot").then(function (ChatBotLib) {
             }
             const prendeOApagaLuces = () => {
                 const prendeOApagaObj = entities.find(({ entity }) => entity == "prendeOApaga")
-                if (prendeOApagaObj.value === "prende") {
+                if (prendeOApagaObj && prendeOApagaObj.value === "prende") {
                     if (LUCES) { return "Las luces ya estan prendidas. Te puedo ayudar en algo mas?"; }
                     document.body.style.backgroundColor = "#FFF";
                     LUCES = true;
                     return "Luces prendidas. Te puedo ayudar en algo mas?"
-                } else if (prendeOApagaObj.value === "apaga") {
+                } else if (prendeOApagaObj && prendeOApagaObj.value === "apaga") {
                     if (!LUCES) { return "Las luces ya estan apagadas. Te puedo ayudar en algo mas?"; }
                     document.body.style.backgroundColor = "#777";
                     LUCES = false;
@@ -165,15 +170,17 @@ SystemJS.import("react-simple-chatbot").then(function (ChatBotLib) {
                 saludos: () => ":), en que te puedo ayudar?",
                 titulares,
                 wtf: () => "WTF?",
+                desconocido: () => "lo lamento, solo soy una asistente AI y te puedo ayudar en cosas especificas..."
             };
             if (!responseMap[intentName]) { return "No te entiendo, en que te puedo ayudar?"; }
             return await responseMap[intentName]();
         };
         queryApi = async () => {
             const { steps } = this.props;
-            const input = steps.input.value.replace(/ +(?= )/g,"").toLowerCase();
+            const input = steps.input.value.replace(/ +(?= )/g,"");
+            const cleanedInput = speakingurl(input, { maintainCase: false, separator: " ", lang: "es" });
             try {
-                const response = await axios.get(PIA_URL, { params: { q: input } })
+                const response = await axios.get(PIA_URL, { params: { q: cleanedInput } })
                 if (response && response.data) {
                     const resp = await this.getResponseFromIntentAndEntities(response.data);
                     this.setState({ response: resp, loading: false }, () => this.triggetNext());
@@ -198,6 +205,7 @@ SystemJS.import("react-simple-chatbot").then(function (ChatBotLib) {
         { id: "response", trigger: "input", component: <PiaResponses />, waitAction: true, asMessage: true, },
     ];
     ReactDOM.render(<ChatBot steps={initialSteps} />, document.getElementById("app"));
+});
 });
 </script>
 </body>

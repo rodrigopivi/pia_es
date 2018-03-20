@@ -1,21 +1,15 @@
 %[saludos]
-    ~[hola] ~[bot]? ~[comoEstas]?
+    ~[hola]? ~[bot]? ~[comoEstas]?
+    un saludo ~[bot]?
 
 ~[hola]
     hey
     hi
     holi
-    ~[hi]?
-
-~[hi]
     hola
 
 ~[bot]
     pia
-    piiia
-    piaa
-    piia
-    pya
     amiga pia
     asistente
 
@@ -25,3 +19,6 @@
     todo bien
     como te encuentras
     saludos
+    como te sientes
+    que tal el dia de hoy
+    espero que estes bien

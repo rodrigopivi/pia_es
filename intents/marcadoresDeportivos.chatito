@@ -1,16 +1,16 @@
 %[marcadoresDeportivos]
-    ~[hola]? ~[bot]? ~[porfavor]? ~[marcadores]
+    ~[hola]? ~[bot]? ~[marcadores]
 
 ~[marcadores]
-    ~[quieroSaber] ~[scoresDeportivos]
+    ~[quieroSaber]? ~[scoresDeportivos] ~[porfavor]?
 
 ~[hola]
     hey
     hola
+    oye
 
 ~[bot]
     pia
-    pya
 
 ~[porfavor]
     porfavor
@@ -26,6 +26,8 @@
     cuales son
     actualizame
     muestrame
+    cuentame
+    dime la actualidad de
 
 ~[scoresDeportivos]
     scores deportivos
@@ -34,3 +36,8 @@
     los resultados
     los marcadores
     como quedaron los partidos
+    informacion deportiva
+    noticias de deportes
+    deportes
+    datos de deportes
+    el mundo deportivo
