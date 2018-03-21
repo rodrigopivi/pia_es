@@ -1,5 +1,6 @@
 %[afirmativo]
-    ~[si]? ~[bot]?
+    ~[si] ~[bot]?
+    ~[bot]? ~[si]
 
 ~[bot]
     pia
@@ -12,3 +13,11 @@
     yes
     esta bien
     sii
+    yes
+    tienes razon
+    me parece bien
+    eso eso es correcto
+    es verdad
+    cierto
+    bien
+    estoy de acuerdo

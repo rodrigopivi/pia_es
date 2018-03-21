@@ -23,7 +23,14 @@ fs.readdirSync("./intents").forEach(filename => {
     const chatitoGrammar = fs.readFileSync("./intents/" + filename, "utf8");
     let dataset = shuffle(chatito.datasetFromString(chatitoGrammar));
     // if too frew generated examples, just use the entire dataset corpus for training
-    if (dataset.length < 50) {
+    // enforce 1000 examples for each intention to have same volume each
+    const datasetsWithMoreExamples = ["desconocido"];
+    const isDatasetWithMoreExamples = datasetsWithMoreExamples.indexOf(fileNameWithoutExt) !== -1
+    let datasetMinLenght =  isDatasetWithMoreExamples ? 2000 : 1000;
+    if (dataset.length < datasetMinLenght) {
+        while (dataset.length < datasetMinLenght) {
+            dataset = dataset.concat(dataset.slice(0, datasetMinLenght-dataset.length));
+        }
         const rasaDataset = JSON.stringify({
             rasa_nlu_data: { regex_features: [], common_examples: dataset }
         }, null, 2);
@@ -31,8 +38,9 @@ fs.readdirSync("./intents").forEach(filename => {
         return;
     }
     let half = Math.round(dataset.length / 2);
-    // NOTE: Limit the training dataset to max 2k examples per intent
-    if (half > 2000) { half = 2000; }
+    // if more than 1k, use only 1k for training, if less than 1k, then use 1k for training
+    if (half > datasetMinLenght) { half = datasetMinLenght; }
+    if (half < datasetMinLenght) { half = datasetMinLenght; }
     const training = dataset.slice(0, half);
     const testing = dataset.slice(half);
     const rasaTrainingDataset = JSON.stringify({

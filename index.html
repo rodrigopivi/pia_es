@@ -21,8 +21,9 @@
         * { box-sizing: border-box; }
         a { text-decoration: none; }
         body { box-sizing: border-box; padding: 24px; }
-        h1, h2 { display: inline; }
+        h1, h2 { display: inline; margin-bottom: 24px; }
         h1 > a, h2 > a { color: #990adb; }
+        .nota { padding: 24px 16px 16px 16px; max-width: 900px; margin: auto; }
         h1 { font-size: "32px"; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; }
     </style>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/systemjs/0.20.19/system.src.js"></script>
@@ -45,10 +46,23 @@
             <a href="https://github.com/rodrigopivi/pia_es">Revisa la documentación!</a>
         <h2>
     </div>
-    <p>
-        Pia esta entrenada para entender tu intencion cuando quieres que te cuente un chiste, prender/apagar luces, poner musica por artista/cancion y leer los titulares.
-    </p>
+    <div class="nota">
+        Pia esta entrenada para entender tu intencion cuando quieres hacer alguna de estas tareas:
+        <ul>
+            <li>contar chistes</li>
+            <li>prender/apagar luces</li>
+            <li>poner musica por artista/cancion (solo pidele algo!)</li>
+            <li>leer los titulares generales</li>
+            <li>leer los titulares deportivos</li>
+        </ul>
+    </div>
     <div id="app"></div>
+    <div class="nota">
+        NOTA: Este es un "starter kit" no un bot de produccion, se agradece la amabilidad. La generacion de dialogo es con respuestas pre establecidas.
+        El objetivo de este proyecto se orienta a mostrar la automatizacion de la generacion de ejemplos de entrenamiento para el motor NLU responsable
+        de extraer la intencion y argumentos de cada frase, si necesitas un motor de dialogo mas potente, puedes revisar rasa core.
+        La idea es mostrar como el modelo auto generador de ejemplos, define el modelo que procesa el lenguaje natural, simple.
+    </div>
     <script type="text/babel">
 System.config({
     transpiler: "Babel", babelOptions: { presets: ["es2015"] },
@@ -62,12 +76,12 @@ SystemJS.import("react-simple-chatbot").then((ChatBotLib) => {
 SystemJS.import("speakingurl").then((speakingurl) => {
     const ChatBot = ChatBotLib.default;
     const Loading = ChatBotLib.Loading;
-    const PIA_URL = 'https://pia-es.herokuapp.com/parse';
+    //const PIA_URL = 'https://pia-es.herokuapp.com/parse';
+    const PIA_URL = 'http://localhost:5000/parse';
     const CHISTES = [
         "¿Cuál es el hermano mayor de Pinocho? Pinueve.",
         "¿Cómo se dice dentista en japones? Tekuro Tuociko.",
         "Había una piña colada y la sacaron de la fila.",
-        "Soy una asistente, no un payaso",
         "¿Cuál es el colmo de Aladino? Tener un mal genio.",
         "¿Qué le dijo una morza a otra morza? ¿Almorzamos?",
         "¿Cómo se llama un oso que cuenta chistes? Chist oso.",
@@ -88,13 +102,13 @@ SystemJS.import("speakingurl").then((speakingurl) => {
         getResponseFromIntentAndEntities = async ({ intent, entities, intent_ranking, text }) => {
             const intentName = intent.name;
             const confidence = Math.round(parseFloat(intent.confidence, 10));
-            if (confidence < 0.35) { return "No tengo certeza de que es lo que quieres... En qué te puedo ayudar?" } 
+            if (confidence < 0.35) { return "No tengo certeza de que es lo que quieres... Solo se hacer unas pocas cosas, en qué te puedo ayudar?" } 
             const ponMusica = async () => {
                 const cancionObj = entities.find(({ entity }) => entity == "cancion");
                 const artistaObj = entities.find(({ entity }) => entity == "artista");
                 try {
                     const q = entities.map(e => e.value).join(" ").trim();
-                    if (!q || !q.length) { return "Ok entiendo que quieres música, no me quedó claro que artista o cancion quieres escuchar..."}
+                    if (!q || !q.length) { return "Me da la impresion que quieres escuchar musica, pero no me quedo claro que quieres escuchar, puedes re-frasear tu pedido?"}
                     const response = await axios.get(YOUTUBE_URL, { params: {
                         q, part: "snippet", key: YOUTUBE_API_KEY, maxResults: 1,
                         type: "video", videoEmbeddable: true, videoSyndicated: true,
@@ -119,7 +133,7 @@ SystemJS.import("speakingurl").then((speakingurl) => {
                         }
                     } else { throw new Error("Invalid server response"); }
                 } catch (e) {
-                    return "Ups... Ocurrió un error con el servidor, ya sabes es gratuito... vuelve en 5 minutos, gracias!";
+                    return "Ups... Ocurrió un error con el servidor, ya sabes Heroku es gratuito... vuelve en 5 minutos, gracias!";
                 }
                 return `Entiendo que quieres musica ${cancion} ${artista}`
             }
@@ -127,23 +141,25 @@ SystemJS.import("speakingurl").then((speakingurl) => {
                 const prendeOApagaObj = entities.find(({ entity }) => entity == "prendeOApaga")
                 if (prendeOApagaObj && prendeOApagaObj.value === "prende") {
                     if (LUCES) { return "Las luces ya estan prendidas. Te puedo ayudar en algo mas?"; }
-                    document.body.style.backgroundColor = "#FFF";
+                    document.body.style.backgroundColor = "#FFFFFF";
                     LUCES = true;
                     return "Luces prendidas. Te puedo ayudar en algo mas?"
                 } else if (prendeOApagaObj && prendeOApagaObj.value === "apaga") {
                     if (!LUCES) { return "Las luces ya estan apagadas. Te puedo ayudar en algo mas?"; }
-                    document.body.style.backgroundColor = "#777";
+                    document.body.style.backgroundColor = "#777777";
                     LUCES = false;
                     return "Luces apagadas. Te puedo ayudar en algo mas?"
                 }
-                document.body.style.backgroundColor = document.body.style.backgroundColor === "#777" ? "#FFF" : "#777";
+                LUCES = !LUCES;
+                document.body.style.backgroundColor = LUCES ? "#FFF" : "#777";
                 return "Listo, las luces cambiaron. Te puedo ayudar en algo mas?";
             };
             const titulares = async () => {
                 try {
                     const response = await axios.get("https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Felcomercio.pe%2Ffeed");
                     if (response && response.data && response.data.items) {
-                        return response.data.items.slice(0, 5).map((n, i) => <p id={n.pubDate}>{n.title}</p>);
+                        const titus = response.data.items.slice(0, 5).map((n, i) => <p id={n.pubDate}>{n.title}</p>);
+                        return (<div><p key="tts">Estos son los titulares</p>{titus}</div>);
                     } else { throw new Error("Invalid server response"); }
                 } catch (e) {
                     return "Ups... Ocurrió un error con el servidor, ya sabes es gratuito... vuelve en 5 minutos, gracias!";
@@ -153,7 +169,8 @@ SystemJS.import("speakingurl").then((speakingurl) => {
                 try {
                     const response = await axios.get("https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Felcomercio.pe%2Ffeed%2Fdeporte-total");
                     if (response && response.data && response.data.items) {
-                        return response.data.items.slice(0, 5).map((n, i) => <p id={n.pubDate}>{n.title}</p>);
+                        const titus = response.data.items.slice(0, 5).map((n, i) => <p id={n.pubDate}>{n.title}</p>);
+                        return (<div><p key="tdd"> Estos son los titulares deportivos</p>{titus}</div>);
                     } else { throw new Error("Invalid server response"); }
                 } catch (e) {
                     return "Ups... Ocurrió un error con el servidor, ya sabes es gratuito... vuelve en 5 minutos, gracias!";

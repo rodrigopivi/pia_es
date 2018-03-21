@@ -1,9 +1,24 @@
 %[despedida]
-    chau
-    adios
-    me despido
-    cuidate chau
-    hasta luego
-    hablamos despues
-    chau pia
-    cambio y fuera
+    chau ~[bot]?
+    adios ~[bot]?
+    me despido ~[bot]?
+    cuidate chau ~[bot]?
+    hasta luego ~[bot]?
+    hablamos despues ~[bot]?
+    cambio y fuera ~[bot]?
+    buenas noches ~[bot]?
+    ya me voy ~[bot]?
+    ya me quito chau ~[bot]?
+    ~[bot]? chau
+    ~[bot]? adios
+    ~[bot]? me despido
+    ~[bot]? cuidate chau
+    ~[bot]? hasta luego
+    ~[bot]? hablamos despues
+    ~[bot]? cambio y fuera
+    ~[bot]? buenas noches
+    ~[bot]? ya me voy
+    ~[bot]? ya me quito chau
+
+~[bot]
+    pia

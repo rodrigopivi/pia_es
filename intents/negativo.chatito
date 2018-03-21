@@ -1,5 +1,6 @@
 %[negativo]
-    ~[no]? ~[bot]?
+    ~[no] ~[bot]?
+    ~[bot]? ~[no]
 
 ~[bot]
     pia

@@ -2,9 +2,8 @@
     ~[hola]? ~[unaCancionDe] @[artista] ~[porfavor]?
     ~[hola]? ~[ponCancion] de @[artista] ~[gracias]?
     ~[queSuene] @[artista]
-    ~[queSuene] @[cancion]
+    musica de @[artista]
     ~[queSuene] @[cancion] de @[artista]
-    ~[porfavor]? de @[artista] ~[ponCancion] @[cancion] ~[gracias]?
     ~[porfavor]? ~[ponCancion] @[cancion] de @[artista] ~[gracias]?
 
 @[artista]
@@ -23,6 +22,10 @@
     don omar
     daddy yankee
     leuzemia
+    savage garden
+    mana
+    la ley
+    bob marley
 
 @[cancion]
     hey jude
@@ -55,16 +58,19 @@
     beyond the senses
 
 ~[queSuene]
-    ponte
-    pon
+    ponte musica de
+    pon musica
     reproduce
     quiero que reproduzcas
     pon play a
     que suene
     quiero escuchar
+    musica de
 
 ~[ponCancion]
-    pon
+    la cancion
+    pon la cancion
+    toca el tema
     toca
     quiero escuchar
     el tema
