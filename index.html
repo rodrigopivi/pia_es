@@ -21,7 +21,7 @@
         * { box-sizing: border-box; }
         a { text-decoration: none; }
         body { box-sizing: border-box; padding: 24px; }
-        h1, h2 { display: inline; margin-bottom: 24px; }
+        h1, h2 { display: inline; }
         h1 > a, h2 > a { color: #990adb; }
         .nota { padding: 24px 16px 16px 16px; max-width: 900px; margin: auto; }
         h1 { font-size: "32px"; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; }
@@ -76,8 +76,8 @@ SystemJS.import("react-simple-chatbot").then((ChatBotLib) => {
 SystemJS.import("speakingurl").then((speakingurl) => {
     const ChatBot = ChatBotLib.default;
     const Loading = ChatBotLib.Loading;
-    //const PIA_URL = 'https://pia-es.herokuapp.com/parse';
-    const PIA_URL = 'http://localhost:5000/parse';
+    const PIA_URL = 'https://pia-es.herokuapp.com/parse';
+    //const PIA_URL = 'http://localhost:5000/parse';
     const CHISTES = [
         "¿Cuál es el hermano mayor de Pinocho? Pinueve.",
         "¿Cómo se dice dentista en japones? Tekuro Tuociko.",
