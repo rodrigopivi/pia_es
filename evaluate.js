@@ -27,7 +27,7 @@ const makeRequestsForDataset = async (dataset) => {
             let intentCorrect = false;
             let entitiesCorrect = false;
             if (response.status !== 200) {
-                rocess.stdout.write("E");
+                process.stdout.write("E");
                 STATS.error.push({ item, response, benchmark });
                 return;
             }
@@ -62,7 +62,7 @@ const makeRequestsForDataset = async (dataset) => {
             };
         } catch (e) {
             benchmark.end = process.hrtime();
-            rocess.stdout.write("E");
+            process.stdout.write("E");
             STATS.error.push({ item, response: null, benchmark });
         }
     });

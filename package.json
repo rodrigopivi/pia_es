@@ -5,17 +5,23 @@
   "main": "build.js",
   "scripts": {
     "postinstall": "python -m spacy download es && python -m spacy download es_core_news_md",
-    "generate:setup": "rm -rf dataset && mkdir dataset && mkdir dataset/training && mkdir dataset/testing",
-    "generate:dataset": "npm run generate:setup && node build",
-    "evaluate": "rm -f evaluation_results.json && node evaluate",
-    "train": "python -m rasa_nlu.train -c config_spacy.json",
-    "start": "IPORT=${PORT:-5000} && python -m rasa_nlu.server -c config_spacy.json -P $IPORT"
+    "clean:rm": "npx rimraf dataset rasa_project logs evaluation_results.json",
+    "clean": "npm run clean:rm && npx mkdirp dataset/training && npx mkdirp dataset/testing",
+    "generate:dataset": "node build",
+    "evaluate": "rimraf evaluation_results.json && node evaluate",
+    "train": "npm run clean && npm run generate:dataset && python -m rasa_nlu.train -c config_spacy.json",
+    "start": "IPORT=${PORT:-5000} && python -m rasa_nlu.server -c config_spacy.json -P $IPORT",
+    "windows:server": "python -m rasa_nlu.server -c config_spacy.json -P 5000"
   },
   "author": "Rodrigo Pimentel",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
-    "chatito": "^1.1.1",
+    "chatito": "^1.1.2",
     "lodash": "^4.17.5"
+  },
+  "devDependencies": {
+    "mkdirp": "^0.5.1",
+    "rimraf": "^2.6.2"
   }
 }

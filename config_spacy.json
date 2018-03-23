@@ -5,5 +5,7 @@
     "data" : "./dataset/training",
     "cors_origins": ["*"],
     "language" : "es",
+    "num_threads": 4,
+    "max_training_processes": 4,
     "spacy_model_name" : "es_core_news_md"
 }

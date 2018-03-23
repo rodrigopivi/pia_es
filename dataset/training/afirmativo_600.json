@@ -1,0 +1,3007 @@
+{
+  "rasa_nlu_data": {
+    "regex_features": [],
+    "common_examples": [
+      {
+        "text": "eso eso es correcto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "estoy de acuerdo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "tienes razon pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia sii",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia asi es",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "asi es pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "me parece bien pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "eso eso es correcto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia afirmativo",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "sii pia",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia tienes razon",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "esta bien",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "si",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "pia cierto",
+        "intent": "afirmativo",
+        "entities": []
+      },
+      {
+        "text": "es verdad",
+        "intent": "afirmativo",
+        "entities": []
+      }
+    ]
+  }
+}

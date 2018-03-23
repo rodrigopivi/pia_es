@@ -76,8 +76,8 @@ SystemJS.import("react-simple-chatbot").then((ChatBotLib) => {
 SystemJS.import("speakingurl").then((speakingurl) => {
     const ChatBot = ChatBotLib.default;
     const Loading = ChatBotLib.Loading;
-    const PIA_URL = 'https://pia-es.herokuapp.com/parse';
-    //const PIA_URL = 'http://localhost:5000/parse';
+    //const PIA_URL = 'https://pia-es.herokuapp.com/parse';
+    const PIA_URL = 'http://localhost:5000/parse';
     const CHISTES = [
         "¿Cuál es el hermano mayor de Pinocho? Pinueve.",
         "¿Cómo se dice dentista en japones? Tekuro Tuociko.",
@@ -186,7 +186,8 @@ SystemJS.import("speakingurl").then((speakingurl) => {
                 prendeOApagaLuces,
                 saludos: () => ":), en que te puedo ayudar?",
                 titulares,
-                wtf: () => "WTF?",
+                gracias: () => "De nada, te puedo ayudar en algo mas?",
+                wtf: () => "No te entiendo, solo soy una asistente AI, en que te puedo ayudar?",
                 desconocido: () => "lo lamento, solo soy una asistente AI y te puedo ayudar en cosas especificas..."
             };
             if (!responseMap[intentName]) { return "No te entiendo, en que te puedo ayudar?"; }

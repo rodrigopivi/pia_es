@@ -1,8 +1,8 @@
 # [PIA](https://rodrigopivi.github.io/pia_es/) - Starter Kit de una asistente personal (chatbot) usando Chatito y RasaNLU
 
-## [Online Demo](https://rodrigopivi.github.io/pia_es/)
+### [Online Demo](https://rodrigopivi.github.io/pia_es/)
 
-Este proyecto sirve como ejemplo y "starter kit" para crear un agente personal (chatbot) usando Chatito como generador del dataset y Rasa para entrenar los modelos NLU usando Spacy.io como backend.
+Este proyecto sirve como ejemplo y "starter kit" para crear un agente personal (chatbot) usando Chatito como generador del dataset y Rasa NLU para entrenar los modelos usando Spacy.io y scikit-learn como backend.
 
 Intenciones que Pia esta entrenada para entender:
 
@@ -35,6 +35,12 @@ Seguir las instrucciones de instalacion de Rasa NLU con backend de spacy. Luego 
 ```
 python -m spacy download es
 python -m spacy download es_core_news_md
+pip install spacy scikit-learn scipy sklearn sklearn-crfsuite rasa-nlu 
+```
+
+## Paso adicional en windows
+```
+pip install pypiwin32
 ```
 
 ## Entrenar
@@ -52,6 +58,8 @@ python -m rasa_nlu.server -c config_spacy.json
 ```
 
 O tambien se puede usar el npm script `npm run start`
+
+Nota: para windows usar `npm run windows:server` para iniciar el servidor.
 
 ### Request de prueba
 ```
@@ -75,6 +83,14 @@ npm run evaluate
 ```
 
 Al final de la evaluacion, se muestra un reporte rapido y se guardan los resultados en `evaluation_results.json`.
+
+### Acerca de este proyecto
+
+Este es un "starter kit" no un bot de produccion, se agradece la amabilidad. La generacion de dialogo es con respuestas pre establecidas.
+
+El objetivo de este proyecto se orienta a mostrar la automatizacion de la generacion de ejemplos de entrenamiento para el motor NLU responsable de extraer la intencion y argumentos de cada frase, si necesitas un motor de dialogo mas potente, puedes revisar rasa core.
+
+La idea es mostrar como el modelo auto generador de ejemplos, define el modelo que procesa el lenguaje natural, simple.
 
 ## Autor
 

@@ -1,0 +1,3007 @@
+{
+  "rasa_nlu_data": {
+    "regex_features": [],
+    "common_examples": [
+      {
+        "text": "hola pia cuentame scores deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola quiero saber datos de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia cual es noticias de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia actualizame el mundo deportivo",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia muestrame datos de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dame marcadores porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey actualizame resultados deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia quiero saber los resultados porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia cual es informacion deportiva porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia dime la actualidad de los marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia informame informacion deportiva porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cuentame marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cual es scores deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola quiero saber como quedaron los partidos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dime scores deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuentame como quedaron los partidos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey actualizame los marcadores porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye informame scores deportivos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia informacion deportiva porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey dame informacion deportiva porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cuentame el mundo deportivo por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye actualizame noticias de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia dame informacion deportiva",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola actualizame informacion deportiva porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia informame marcadores porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia informame noticias de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye dime la actualidad de marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuentame el mundo deportivo porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "dame deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia muestrame los marcadores porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye los marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia informame datos de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia muestrame informacion deportiva por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye informame informacion deportiva porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia dime la actualidad de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia informame deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye dime la actualidad de los marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye informame los marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuales son marcadores porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuales son marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia cual es noticias de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cuentame marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey dime la actualidad de noticias de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cual es el mundo deportivo porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia quiero saber datos de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye dame resultados deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cual es marcadores porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dime la actualidad de el mundo deportivo",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuales son noticias de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuales son resultados deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia quiero saber noticias de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia dime informacion deportiva",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye dime la actualidad de como quedaron los partidos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cual es noticias de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye cuales son como quedaron los partidos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia informame noticias de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cual es el mundo deportivo",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cuales son el mundo deportivo",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuales son los marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia los resultados porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuales son noticias de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cuentame como quedaron los partidos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey quiero saber marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia dime la actualidad de datos de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia informame informacion deportiva porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "muestrame scores deportivos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey quiero saber el mundo deportivo",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cual es scores deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia cuales son informacion deportiva porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia cual es datos de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cual es resultados deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye dame noticias de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia cual es los marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia dime la actualidad de el mundo deportivo porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuentame como quedaron los partidos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye quiero saber datos de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia el mundo deportivo",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia quiero saber noticias de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye cuentame como quedaron los partidos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cuentame los resultados porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye dime la actualidad de resultados deportivos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia scores deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey informame scores deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia cual es los resultados porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia cuales son noticias de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia actualizame como quedaron los partidos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola muestrame informacion deportiva por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia cual es informacion deportiva porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia dime la actualidad de los resultados porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cuales son deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey informame resultados deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia informame deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cuales son informacion deportiva porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia quiero saber los marcadores porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia dime la actualidad de noticias de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentame como quedaron los partidos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola muestrame deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola muestrame los resultados",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "dime los marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey dime deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia el mundo deportivo porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola quiero saber scores deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "muestrame scores deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye dame datos de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuales son los marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cuentame los resultados por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia cual es datos de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia informame datos de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "informame datos de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia dime noticias de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia cual es los resultados por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye dame los marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cuales son el mundo deportivo porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia dime la actualidad de noticias de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia cual es marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia dime el mundo deportivo porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cual es los marcadores porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia actualizame los marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye dame como quedaron los partidos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia informame los marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia dime marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dime la actualidad de los marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia resultados deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia muestrame los resultados",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia dime la actualidad de marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dame como quedaron los partidos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cuales son resultados deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia cuales son el mundo deportivo por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia actualizame resultados deportivos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola actualizame resultados deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia informame resultados deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia cual es resultados deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia informame como quedaron los partidos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "dame resultados deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey dime datos de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia actualizame informacion deportiva porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia dame marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "actualizame resultados deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia dime la actualidad de los resultados por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia dame scores deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey resultados deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola como quedaron los partidos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia actualizame marcadores porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia noticias de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cual es deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia el mundo deportivo porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cual es datos de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye dime informacion deportiva porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye actualizame informacion deportiva porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola quiero saber informacion deportiva por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dame como quedaron los partidos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye actualizame informacion deportiva por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia cual es scores deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cuales son los resultados",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "dime la actualidad de informacion deportiva por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia datos de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia quiero saber marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cuentame como quedaron los partidos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia cuales son informacion deportiva por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia dime la actualidad de como quedaron los partidos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia informame marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia quiero saber el mundo deportivo porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia los resultados porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola actualizame como quedaron los partidos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia cual es informacion deportiva",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey muestrame scores deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "quiero saber el mundo deportivo por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye muestrame scores deportivos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "dime noticias de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia dime datos de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dame datos de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia cual es como quedaron los partidos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola los marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia resultados deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey quiero saber deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia como quedaron los partidos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cuentame como quedaron los partidos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia quiero saber marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "informame scores deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia muestrame noticias de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia quiero saber el mundo deportivo por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia informacion deportiva por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia informame como quedaron los partidos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cuentame los marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "dame datos de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia dime resultados deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia muestrame noticias de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia quiero saber los resultados porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia quiero saber los resultados",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola resultados deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia dime la actualidad de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "quiero saber noticias de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuales son informacion deportiva porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia cual es el mundo deportivo porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey dime el mundo deportivo porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey informame deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dime la actualidad de noticias de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye dime los resultados por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "informame el mundo deportivo por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia muestrame los resultados porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey actualizame marcadores porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia muestrame informacion deportiva porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye actualizame marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia dame los resultados",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cuales son los resultados por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "quiero saber los resultados por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia quiero saber deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuales son los resultados por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cuales son los marcadores porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia muestrame como quedaron los partidos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dame scores deportivos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "actualizame el mundo deportivo por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia actualizame noticias de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia cual es datos de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia muestrame como quedaron los partidos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "datos de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia quiero saber datos de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia quiero saber deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "quiero saber scores deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dame los resultados",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye cual es datos de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia informame los resultados porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia muestrame el mundo deportivo porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia informame marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia los resultados porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia dime la actualidad de noticias de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia dime la actualidad de scores deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia dime la actualidad de como quedaron los partidos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye quiero saber deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye como quedaron los partidos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia quiero saber resultados deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola muestrame como quedaron los partidos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cuales son scores deportivos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia scores deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia actualizame datos de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia informame noticias de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia cual es noticias de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia datos de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia los marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "muestrame datos de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia dime el mundo deportivo porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia quiero saber resultados deportivos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cuentame el mundo deportivo",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuentame los marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia muestrame resultados deportivos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "quiero saber como quedaron los partidos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "el mundo deportivo porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cuales son como quedaron los partidos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey dime la actualidad de el mundo deportivo por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "dime los resultados por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "dame scores deportivos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia dame los marcadores porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cuales son scores deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia dime la actualidad de informacion deportiva por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cual es scores deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cuentame los resultados por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye cuentame datos de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia dime informacion deportiva porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia dame resultados deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cuentame scores deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dame los marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia dime los resultados porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye cuentame informacion deportiva",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuales son los resultados porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye muestrame scores deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia quiero saber resultados deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "muestrame los marcadores porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia quiero saber como quedaron los partidos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye cuales son datos de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuales son los resultados por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye cual es resultados deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia quiero saber informacion deportiva por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cuales son marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "actualizame los marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia actualizame informacion deportiva porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cual es marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia actualizame scores deportivos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "dame informacion deportiva",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cuales son resultados deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia dime la actualidad de como quedaron los partidos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cuentame deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia datos de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia dime la actualidad de scores deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia actualizame el mundo deportivo",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "informame marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cual es noticias de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye informame datos de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia actualizame informacion deportiva por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye quiero saber datos de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia dime resultados deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola muestrame resultados deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia los marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola informame informacion deportiva",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "dime la actualidad de resultados deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "dame el mundo deportivo",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia dame como quedaron los partidos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia dime la actualidad de noticias de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye actualizame el mundo deportivo porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "dime la actualidad de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia resultados deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia cual es los marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "dime informacion deportiva porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia cuentame datos de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye cuales son el mundo deportivo",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia muestrame datos de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dime informacion deportiva",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia cual es deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia dame los marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia cual es scores deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia quiero saber deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia actualizame los marcadores porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye cuales son como quedaron los partidos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia informame datos de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia dime los resultados porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "actualizame deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia cual es scores deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia quiero saber noticias de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "dime los resultados",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia actualizame los resultados",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia los marcadores porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia muestrame los marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cual es datos de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye muestrame datos de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia dime la actualidad de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye cuales son el mundo deportivo porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye muestrame los marcadores porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia dime los marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey dame resultados deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia actualizame como quedaron los partidos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "muestrame los marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye actualizame el mundo deportivo por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "actualizame como quedaron los partidos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia informame los resultados porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey informame los resultados porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia dime la actualidad de noticias de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye cual es resultados deportivos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cuales son informacion deportiva porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey noticias de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia informacion deportiva por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "dime deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola informame resultados deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia quiero saber el mundo deportivo porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia informame resultados deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye actualizame los marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cuales son como quedaron los partidos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dime la actualidad de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey informacion deportiva",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia quiero saber los marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye dame deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "quiero saber marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye cuentame datos de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuales son marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola actualizame el mundo deportivo porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia muestrame los resultados",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye quiero saber scores deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia informame informacion deportiva por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye cuales son scores deportivos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dime los resultados porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "quiero saber deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia quiero saber deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia muestrame resultados deportivos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cuales son datos de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye dime la actualidad de datos de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye cuentame datos de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia informame resultados deportivos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cuales son los marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia dame deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey como quedaron los partidos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia dame el mundo deportivo porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey dime la actualidad de los marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cuentame deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola muestrame marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cual es los resultados por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia cual es scores deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia actualizame el mundo deportivo",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cuentame datos de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dame noticias de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cuales son noticias de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey quiero saber marcadores porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "scores deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia los resultados",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia dime informacion deportiva por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey actualizame scores deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "dime la actualidad de los resultados porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia quiero saber como quedaron los partidos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia dime noticias de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia dime la actualidad de los marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dame scores deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cuentame datos de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentame los marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cuentame datos de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cual es el mundo deportivo porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia dame los marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey dime la actualidad de resultados deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola muestrame deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia quiero saber el mundo deportivo porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey muestrame los marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "dime datos de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia informame resultados deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia muestrame como quedaron los partidos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye muestrame resultados deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cuales son marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "dime la actualidad de scores deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia actualizame noticias de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cual es deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dime deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia quiero saber scores deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia actualizame marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dime como quedaron los partidos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye datos de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia muestrame datos de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey dime los resultados porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola quiero saber datos de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuentame marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye cual es noticias de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye dime el mundo deportivo por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia dime datos de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey dime los marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cual es informacion deportiva porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dime la actualidad de datos de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey dime la actualidad de como quedaron los partidos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia cual es el mundo deportivo",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cuales son informacion deportiva porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola informame como quedaron los partidos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia dime la actualidad de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia cual es scores deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia actualizame los marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia datos de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey quiero saber como quedaron los partidos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola noticias de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola actualizame deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey dime como quedaron los partidos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye cual es informacion deportiva por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia quiero saber resultados deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia dime scores deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye informame noticias de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cual es noticias de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia dime la actualidad de el mundo deportivo por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye muestrame informacion deportiva",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dime la actualidad de informacion deportiva porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuales son como quedaron los partidos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuentame marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia informame el mundo deportivo",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia muestrame datos de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia cual es los marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye informame como quedaron los partidos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye actualizame resultados deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola quiero saber los marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia dame como quedaron los partidos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia quiero saber los marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola quiero saber como quedaron los partidos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey informame como quedaron los partidos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia muestrame noticias de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "informacion deportiva",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cuentame scores deportivos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cuentame deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola resultados deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dime los marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuentame el mundo deportivo porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia dime los marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cuales son el mundo deportivo porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola actualizame los resultados porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia dime la actualidad de el mundo deportivo por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye quiero saber deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia los resultados por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cuales son scores deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia cual es informacion deportiva por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia muestrame deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola el mundo deportivo porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola muestrame como quedaron los partidos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cuales son datos de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia dame scores deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cuales son resultados deportivos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey dame como quedaron los partidos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia dime la actualidad de scores deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia cuales son el mundo deportivo",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia cual es noticias de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia dame los resultados porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola quiero saber marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cuentame noticias de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia cuentame como quedaron los partidos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cual es informacion deportiva porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cuentame como quedaron los partidos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "dame noticias de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cuales son datos de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia dame los resultados por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye informame los resultados por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "dime resultados deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia cuales son marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuales son marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia informame noticias de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia noticias de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye dime la actualidad de resultados deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia dime la actualidad de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye muestrame noticias de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentame marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia dame los marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia informacion deportiva porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cuentame los resultados por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia datos de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye cual es los marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia dime la actualidad de marcadores porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey quiero saber noticias de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia dime la actualidad de marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "dime la actualidad de informacion deportiva porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey dame noticias de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cuentame resultados deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia dime la actualidad de el mundo deportivo",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia cual es noticias de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dame los resultados por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey dime el mundo deportivo",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia cuentame datos de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia actualizame scores deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola muestrame scores deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia dime como quedaron los partidos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cuentame noticias de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey informame el mundo deportivo",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cuales son los marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia dame noticias de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cual es deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye informame el mundo deportivo porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cuentame informacion deportiva por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "los resultados porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia dime el mundo deportivo porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia muestrame informacion deportiva",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey quiero saber los resultados porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey quiero saber como quedaron los partidos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cual es datos de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia actualizame marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "como quedaron los partidos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuales son informacion deportiva porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey cuentame scores deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye resultados deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey actualizame los resultados porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cual es como quedaron los partidos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentame datos de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia dame resultados deportivos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cuentame informacion deportiva porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia como quedaron los partidos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia muestrame los marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye quiero saber como quedaron los partidos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia informame los resultados porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia actualizame datos de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuales son scores deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "resultados deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia informame el mundo deportivo",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia dime la actualidad de resultados deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "muestrame resultados deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia cuentame noticias de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia informame como quedaron los partidos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey muestrame los resultados porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye dime la actualidad de scores deportivos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia muestrame los marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey dime noticias de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia dime la actualidad de resultados deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey informame datos de deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye cual es como quedaron los partidos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "dime la actualidad de los resultados por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola cual es resultados deportivos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia dame como quedaron los partidos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia muestrame resultados deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia muestrame datos de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye muestrame informacion deportiva porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey dame noticias de deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia muestrame scores deportivos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye cuentame como quedaron los partidos porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia muestrame resultados deportivos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye muestrame el mundo deportivo porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye informame marcadores",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "actualizame el mundo deportivo porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia cual es el mundo deportivo porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "cual es los resultados por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye muestrame el mundo deportivo",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia cuentame datos de deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia dime el mundo deportivo porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola muestrame el mundo deportivo por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dame marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia quiero saber los marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye cuentame scores deportivos",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia muestrame el mundo deportivo",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye dame deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye pia informame resultados deportivos porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "oye cuales son deportes por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia actualizame marcadores porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "informame los resultados por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "scores deportivos por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey dime la actualidad de marcadores por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola dime el mundo deportivo por favor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "informame deportes",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hey pia dame informacion deportiva porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "hola pia dime la actualidad de el mundo deportivo",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia cual es deportes porfa",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      },
+      {
+        "text": "pia informame datos de deportes porfavor",
+        "intent": "marcadoresDeportivos",
+        "entities": []
+      }
+    ]
+  }
+}

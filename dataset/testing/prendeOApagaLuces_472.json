@@ -1,0 +1,5666 @@
+[
+  {
+    "text": "hola pia oscurece la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia prende",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 14,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey apagar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor muy oscuro luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "muy oscuro la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor oscurecer la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor desactivar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia apaga luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia oscurecer",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 18,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor oscurecer luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor iluminar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia enciende luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor mucha luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 27,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor prende",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 20,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola prender",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 12,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey oscurece luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor mucha luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor ilumina",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 21,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye iluminar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey oscurece",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor activar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 25,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia mucha luz luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 17,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye iluminar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia apaga",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 14,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia activar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola prende luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 11,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey apaga luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey ilumina luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye apagar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor prende la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 20,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor encender luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia iluminar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor ilumina luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 25,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor oscurece la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor encender la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor mucha luz luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 27,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "desactiva la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor muy oscuro",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 20,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia oscurece luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oscurecer luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor enciende luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor activa la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 16,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia activa",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 15,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor muy oscuro la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 20,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor desactiva",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia por favor oscurecer",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 19,
+        "end": 28,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey activa luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia oscurecer la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 17,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor enciende",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia activa la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 14,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor enciende luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 18,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye prende luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey muy oscuro luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 14,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor oscurecer luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 19,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia por favor oscurece luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 19,
+        "end": 27,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia iluminar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor apagar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 24,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia mucha luz la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 17,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey encender la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia por favor prender luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 19,
+        "end": 26,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor activar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 21,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor mucha luz la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor activa",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 24,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye activa luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia por favor prende luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 19,
+        "end": 25,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye desactivar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 14,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia oscurecer la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 17,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oscurece",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia apagar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 14,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor desactivar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 20,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola iluminar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia por favor activa luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 19,
+        "end": 25,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "activa la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia por favor oscurecer luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 19,
+        "end": 28,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia iluminar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia apaga luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor desactivar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 20,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia activar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye mucha luz la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor oscurece la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor prende",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 24,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia desactivar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 18,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia apaga",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia iluminar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "desactiva",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia apagar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 14,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia apagar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 14,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia muy oscuro luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 18,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "luz muy oscuro",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 14,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor apagar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 16,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia iluminar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor activar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia apagar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 15,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia apagar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia por favor ilumina luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 19,
+        "end": 26,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia ilumina",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor apagar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 20,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey desactivar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 14,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor oscurece luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola mucha luz luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye desactivar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 14,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia enciende luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor oscurecer",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 27,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye desactiva",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola muy oscuro",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor desactivar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 28,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey prende luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye oscurecer la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor enciende la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye enciende luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor oscurece luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 18,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor mucha luz la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor activa luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 24,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "luces desactiva",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 6,
+        "end": 15,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye mucha luz luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey activar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey encender luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola mucha luz luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "luces muy oscuro",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 6,
+        "end": 16,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor desactiva luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 19,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor activar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor activa",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 20,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia oscurece luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia por favor apagar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 19,
+        "end": 25,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor apaga luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 23,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "luces apagar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 6,
+        "end": 12,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey prender luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia mucha luz luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 18,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola desactiva la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola apaga luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor encender",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor desactiva",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye muy oscuro luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 14,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia por favor apaga luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 19,
+        "end": 24,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia por favor oscurece",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 19,
+        "end": 27,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor desactiva",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 27,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor muy oscuro la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola apagar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 11,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor muy oscuro luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 28,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia enciende la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor prender la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 21,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oscurecer luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor oscurecer",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor iluminar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor oscurece la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor encender luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "luces prender",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 6,
+        "end": 13,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "la iluminacion desactivar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey ilumina",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor apagar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 24,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia prender luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye desactiva luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor apaga luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 20,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor oscurecer luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia prende luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 15,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey mucha luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia oscurece luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey desactiva luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia por favor mucha luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 19,
+        "end": 28,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor apaga",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 23,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye apaga la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor prender",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor desactivar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor apagar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 24,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey prender luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola encender luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor activar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 25,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia apagar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 15,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "muy oscuro luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "iluminar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor prender luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 25,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor desactivar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 28,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor desactiva",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 19,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor encender la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola desactiva",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor encender luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 18,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola prende",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 11,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye prender luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia muy oscuro luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 18,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor oscurecer luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor muy oscuro",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 28,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor mucha luz la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 19,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye desactiva la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor ilumina luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 17,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor oscurece",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 18,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey prende",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey apagar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor muy oscuro",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor encender la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia desactiva la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 18,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor iluminar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor prende la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 21,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor ilumina la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 21,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "luces encender",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 6,
+        "end": 14,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia por favor activa la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 19,
+        "end": 25,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia apagar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 15,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor muy oscuro",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor prende",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 20,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor iluminar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia desactivar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 19,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor oscurecer luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 27,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor desactivar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola ilumina luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 12,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia por favor prender luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 19,
+        "end": 26,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia desactiva",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "muy oscuro luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia encender la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor muy oscuro luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia apaga luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey desactivar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 14,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "prende luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor apaga la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 23,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor oscurece la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor muy oscuro luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor apaga luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 19,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia activa luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 15,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia oscurece la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia desactiva la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 17,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor ilumina luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia activa luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 14,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor prender luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 25,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "enciende luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye iluminar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor iluminar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor ilumina",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 25,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia ilumina la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor activa",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 20,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "desactivar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey oscurecer luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor mucha luz luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "luz activa",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor iluminar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "luz enciende",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "encender la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "encender luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor desactiva luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia enciende luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor apaga luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 23,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor activa luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 16,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor encender",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "encender",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "luz activar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "luces oscurece",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 6,
+        "end": 14,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "activar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "la iluminacion apaga",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 20,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor prende luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 24,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor apaga la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 19,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia desactivar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 18,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor ilumina luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 21,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye oscurecer luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor desactivar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "luz iluminar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor prender",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 25,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor iluminar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor prende luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 21,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor activa la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 21,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola enciende la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia oscurece la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia activar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor iluminar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia por favor desactivar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 19,
+        "end": 29,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola desactivar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "luz prender",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor apaga la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 23,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor ilumina luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 21,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia enciende",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia desactiva luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia prende luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor prender luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 21,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oscurecer la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "activar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola desactiva luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor apagar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 16,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor iluminar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey muy oscuro la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 14,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia apaga la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia desactiva",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 17,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor ilumina la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 25,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor oscurecer luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor iluminar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 18,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia encender luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor iluminar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor iluminar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia oscurecer luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 18,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia por favor prende",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 19,
+        "end": 25,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye activar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia activar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor oscurecer la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 19,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia activar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia apagar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia desactiva",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 17,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia por favor encender luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 19,
+        "end": 27,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "prende",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "luz encender",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia apaga la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor ilumina",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 25,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia ilumina luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye desactiva luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia prende",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 14,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor activar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 25,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor iluminar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye enciende la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor iluminar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia prender luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia ilumina la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor mucha luz luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 27,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia oscurecer la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 18,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "luz desactiva",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor prende luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 20,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye apagar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye prende la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye apagar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor apaga",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 20,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey desactivar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 14,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia ilumina luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "luz apagar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia desactivar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 19,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor desactivar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 28,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor enciende",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor desactiva luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola mucha luz la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor oscurecer",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 19,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye activa la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "encender luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia encender luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor iluminar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 18,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "mucha luz luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia activa la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey encender",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor enciende",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor oscurece luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia ilumina la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia iluminar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia por favor mucha luz luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 19,
+        "end": 28,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor mucha luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 19,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia prende luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 14,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia enciende la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia mucha luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 17,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola ilumina",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 12,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor encender la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia enciende luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia prende la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor mucha luz luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "apaga la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia desactivar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 18,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor apagar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 24,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor apagar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 16,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor activar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 21,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor ilumina la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 21,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia oscurece la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia activa luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "desactivar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor prende luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 24,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor enciende luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia por favor encender luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 19,
+        "end": 27,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia activa",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 14,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia prende la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 14,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor oscurece",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor activar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 21,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye activar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye oscurece luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia muy oscuro luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 14,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor oscurece luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 18,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor prende la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 24,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor activa la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 20,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor oscurecer la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 27,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia muy oscuro luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 19,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor iluminar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey iluminar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia prende la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 14,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye desactivar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 14,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor prender luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "la iluminacion enciende",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 23,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "apaga luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia activar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor activa luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 21,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia ilumina luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor oscurece",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia por favor apaga",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 19,
+        "end": 24,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia oscurecer",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 17,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor activar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor mucha luz luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor apagar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 20,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia desactiva luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 17,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor activar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 17,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola activa luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 11,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor enciende luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor activar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 17,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola activar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 12,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia encender luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor muy oscuro luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 28,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia muy oscuro luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 18,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola oscurecer luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor iluminar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 18,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "prender luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia por favor desactivar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 19,
+        "end": 29,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia por favor mucha luz la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 19,
+        "end": 28,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor prender luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 17,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor apaga luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 23,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola oscurecer la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor enciende la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 18,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor activa luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 20,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor apagar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 24,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor activar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 21,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor desactivar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor muy oscuro",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor desactiva luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia mucha luz luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia mucha luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola enciende luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor oscurecer luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 27,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor activar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 25,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia prender luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor enciende luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 18,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia por favor muy oscuro luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 19,
+        "end": 29,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor prende la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 20,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor apagar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 16,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia apaga la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 14,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor oscurece luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor activar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 21,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia desactiva luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor desactivar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor encender",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor oscurecer la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "activa luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor mucha luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 27,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia muy oscuro",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 18,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor muy oscuro la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor activa la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 24,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor activa luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 20,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "por favor prender luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 10,
+        "end": 17,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey apaga",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "activar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "activar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia mucha luz luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 17,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola prende la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 11,
+        "value": "prende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor oscurecer luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "value": "oscurecer",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia apagar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 14,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor ilumina luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia muy oscuro la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 19,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor oscurece luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia desactiva luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 18,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia encender la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia enciende",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "value": "enciende",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor activa",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 24,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola por favor apagar luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 21,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia apaga",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "apagar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia por favor ilumina la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 19,
+        "end": 26,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "luz ilumina",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye prender",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola oscurece luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "value": "oscurece",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey desactiva la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor apaga la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 19,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey por favor iluminar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "value": "iluminar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia prender",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye pia por favor desactivar la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 28,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia por favor muy oscuro",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 18,
+        "end": 28,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor prender luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 21,
+        "value": "prender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "la iluminacion apagar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 21,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey mucha luz la iluminacion",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor desactiva luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "value": "desactiva",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "la iluminacion activa",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 15,
+        "end": 21,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey apagar luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "ilumina",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola pia muy oscuro",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 9,
+        "end": 19,
+        "value": "muy oscuro",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye desactivar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 14,
+        "value": "desactivar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hola encender luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "value": "encender",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "pia por favor mucha luz luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "value": "mucha luz",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye ilumina luces",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "value": "ilumina",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor apagar",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 20,
+        "value": "apagar",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "hey pia activa",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 8,
+        "end": 14,
+        "value": "activa",
+        "entity": "prendeOApaga"
+      }
+    ]
+  },
+  {
+    "text": "oye por favor apaga luz",
+    "intent": "prendeOApagaLuces",
+    "entities": [
+      {
+        "start": 14,
+        "end": 19,
+        "value": "apaga",
+        "entity": "prendeOApaga"
+      }
+    ]
+  }
+]

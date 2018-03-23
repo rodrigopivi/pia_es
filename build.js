@@ -22,11 +22,11 @@ fs.readdirSync("./intents").forEach(filename => {
     if (extension !== "chatito") { return null; }
     const chatitoGrammar = fs.readFileSync("./intents/" + filename, "utf8");
     let dataset = shuffle(chatito.datasetFromString(chatitoGrammar));
-    // if too frew generated examples, just use the entire dataset corpus for training
-    // enforce 1000 examples for each intention to have same volume each
-    const datasetsWithMoreExamples = ["desconocido"];
-    const isDatasetWithMoreExamples = datasetsWithMoreExamples.indexOf(fileNameWithoutExt) !== -1
-    let datasetMinLenght =  isDatasetWithMoreExamples ? 2000 : 1000;
+    // limit the minimumDatasetExamples and some intents may need other number of examples
+    const datasetsWithMoreExamples = { "desconocido": 1200, "ponMusica": 1200 };
+    const minimumDatasetExamples = 600;
+    const isDatasetWithMoreExamples = Object.keys(datasetsWithMoreExamples).indexOf(fileNameWithoutExt) !== -1
+    let datasetMinLenght =  isDatasetWithMoreExamples ? datasetsWithMoreExamples[fileNameWithoutExt] : minimumDatasetExamples;
     if (dataset.length < datasetMinLenght) {
         while (dataset.length < datasetMinLenght) {
             dataset = dataset.concat(dataset.slice(0, datasetMinLenght-dataset.length));
