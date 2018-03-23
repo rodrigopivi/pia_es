@@ -3,157 +3,7 @@
     "regex_features": [],
     "common_examples": [
       {
-        "text": "asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
         "text": "asi no es pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "nope pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no quiero eso",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrect",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrect",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no quiero eso pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrect",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no quiero eso",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "nope",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia nope",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no quiero eso",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "nope",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrect pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
         "intent": "negativo",
         "entities": []
       },
@@ -163,7 +13,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
+        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -173,72 +23,7 @@
         "entities": []
       },
       {
-        "text": "pia asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "asi no es pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
         "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "nope pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no quiero eso",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrect",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -248,32 +33,12 @@
         "entities": []
       },
       {
-        "text": "pia no esta bien",
+        "text": "pia asi no es",
         "intent": "negativo",
         "entities": []
       },
       {
-        "text": "negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrect",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no quiero eso",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "nope",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien",
+        "text": "asi no es",
         "intent": "negativo",
         "entities": []
       },
@@ -283,12 +48,22 @@
         "entities": []
       },
       {
-        "text": "no quiero eso",
+        "text": "pia no esta bien",
         "intent": "negativo",
         "entities": []
       },
       {
-        "text": "nope",
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no esta bien",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "negativo",
         "intent": "negativo",
         "entities": []
       },
@@ -298,12 +73,17 @@
         "entities": []
       },
       {
-        "text": "incorrect pia",
+        "text": "pia negativo",
         "intent": "negativo",
         "entities": []
       },
       {
-        "text": "asi no es",
+        "text": "incorrecto pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
         "intent": "negativo",
         "entities": []
       },
@@ -313,77 +93,7 @@
         "entities": []
       },
       {
-        "text": "no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "asi no es pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
         "text": "nope pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
         "intent": "negativo",
         "entities": []
       },
@@ -393,27 +103,22 @@
         "entities": []
       },
       {
-        "text": "incorrect",
+        "text": "no",
         "intent": "negativo",
         "entities": []
       },
       {
-        "text": "pia incorrect",
+        "text": "no",
         "intent": "negativo",
         "entities": []
       },
       {
-        "text": "no quiero eso pia",
+        "text": "nope",
         "intent": "negativo",
         "entities": []
       },
       {
-        "text": "pia no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo",
+        "text": "pia incorrecto",
         "intent": "negativo",
         "entities": []
       },
@@ -428,17 +133,7 @@
         "entities": []
       },
       {
-        "text": "nope",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia nope",
+        "text": "no esta bien pia",
         "intent": "negativo",
         "entities": []
       },
@@ -448,12 +143,17 @@
         "entities": []
       },
       {
-        "text": "nope",
+        "text": "negativo pia",
         "intent": "negativo",
         "entities": []
       },
       {
         "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -463,17 +163,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
+        "text": "asi no es pia",
         "intent": "negativo",
         "entities": []
       },
@@ -483,7 +173,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
+        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -493,72 +183,7 @@
         "entities": []
       },
       {
-        "text": "pia asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "asi no es pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
         "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "nope pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no quiero eso",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrect",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -568,12 +193,92 @@
         "entities": []
       },
       {
+        "text": "pia asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "pia no esta bien",
         "intent": "negativo",
         "entities": []
       },
       {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no esta bien",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no quiero eso",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia incorrecto",
         "intent": "negativo",
         "entities": []
       },
@@ -588,17 +293,7 @@
         "entities": []
       },
       {
-        "text": "nope",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia nope",
+        "text": "no esta bien pia",
         "intent": "negativo",
         "entities": []
       },
@@ -608,12 +303,17 @@
         "entities": []
       },
       {
-        "text": "nope",
+        "text": "negativo pia",
         "intent": "negativo",
         "entities": []
       },
       {
         "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -623,17 +323,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
+        "text": "asi no es pia",
         "intent": "negativo",
         "entities": []
       },
@@ -643,7 +333,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
+        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -653,72 +343,7 @@
         "entities": []
       },
       {
-        "text": "pia asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "asi no es pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
         "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "nope pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no quiero eso",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrect",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -728,12 +353,92 @@
         "entities": []
       },
       {
+        "text": "pia asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "pia no esta bien",
         "intent": "negativo",
         "entities": []
       },
       {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no esta bien",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no quiero eso",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia incorrecto",
         "intent": "negativo",
         "entities": []
       },
@@ -748,17 +453,7 @@
         "entities": []
       },
       {
-        "text": "nope",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia nope",
+        "text": "no esta bien pia",
         "intent": "negativo",
         "entities": []
       },
@@ -768,12 +463,17 @@
         "entities": []
       },
       {
-        "text": "nope",
+        "text": "negativo pia",
         "intent": "negativo",
         "entities": []
       },
       {
         "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -783,17 +483,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
+        "text": "asi no es pia",
         "intent": "negativo",
         "entities": []
       },
@@ -803,7 +493,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
+        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -813,72 +503,7 @@
         "entities": []
       },
       {
-        "text": "pia asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "asi no es pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
         "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "nope pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no quiero eso",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrect",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -888,12 +513,92 @@
         "entities": []
       },
       {
+        "text": "pia asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "pia no esta bien",
         "intent": "negativo",
         "entities": []
       },
       {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no esta bien",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no quiero eso",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia incorrecto",
         "intent": "negativo",
         "entities": []
       },
@@ -908,17 +613,7 @@
         "entities": []
       },
       {
-        "text": "nope",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia nope",
+        "text": "no esta bien pia",
         "intent": "negativo",
         "entities": []
       },
@@ -928,12 +623,17 @@
         "entities": []
       },
       {
-        "text": "nope",
+        "text": "negativo pia",
         "intent": "negativo",
         "entities": []
       },
       {
         "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -943,17 +643,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
+        "text": "asi no es pia",
         "intent": "negativo",
         "entities": []
       },
@@ -963,7 +653,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
+        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -973,72 +663,7 @@
         "entities": []
       },
       {
-        "text": "pia asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "asi no es pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
         "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "nope pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no quiero eso",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrect",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -1048,12 +673,92 @@
         "entities": []
       },
       {
+        "text": "pia asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "pia no esta bien",
         "intent": "negativo",
         "entities": []
       },
       {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no esta bien",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no quiero eso",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia incorrecto",
         "intent": "negativo",
         "entities": []
       },
@@ -1068,17 +773,7 @@
         "entities": []
       },
       {
-        "text": "nope",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia nope",
+        "text": "no esta bien pia",
         "intent": "negativo",
         "entities": []
       },
@@ -1088,12 +783,17 @@
         "entities": []
       },
       {
-        "text": "nope",
+        "text": "negativo pia",
         "intent": "negativo",
         "entities": []
       },
       {
         "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -1103,17 +803,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
+        "text": "asi no es pia",
         "intent": "negativo",
         "entities": []
       },
@@ -1123,7 +813,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
+        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -1133,72 +823,7 @@
         "entities": []
       },
       {
-        "text": "pia asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "asi no es pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
         "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "nope pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no quiero eso",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrect",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -1208,12 +833,92 @@
         "entities": []
       },
       {
+        "text": "pia asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "pia no esta bien",
         "intent": "negativo",
         "entities": []
       },
       {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no esta bien",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no quiero eso",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia incorrecto",
         "intent": "negativo",
         "entities": []
       },
@@ -1228,17 +933,7 @@
         "entities": []
       },
       {
-        "text": "nope",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia nope",
+        "text": "no esta bien pia",
         "intent": "negativo",
         "entities": []
       },
@@ -1248,12 +943,17 @@
         "entities": []
       },
       {
-        "text": "nope",
+        "text": "negativo pia",
         "intent": "negativo",
         "entities": []
       },
       {
         "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -1263,17 +963,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
+        "text": "asi no es pia",
         "intent": "negativo",
         "entities": []
       },
@@ -1283,7 +973,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
+        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -1293,72 +983,7 @@
         "entities": []
       },
       {
-        "text": "pia asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "asi no es pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
         "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "nope pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no quiero eso",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrect",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -1368,12 +993,92 @@
         "entities": []
       },
       {
+        "text": "pia asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "pia no esta bien",
         "intent": "negativo",
         "entities": []
       },
       {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no esta bien",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no quiero eso",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia incorrecto",
         "intent": "negativo",
         "entities": []
       },
@@ -1388,17 +1093,7 @@
         "entities": []
       },
       {
-        "text": "nope",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia nope",
+        "text": "no esta bien pia",
         "intent": "negativo",
         "entities": []
       },
@@ -1408,12 +1103,17 @@
         "entities": []
       },
       {
-        "text": "nope",
+        "text": "negativo pia",
         "intent": "negativo",
         "entities": []
       },
       {
         "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -1423,17 +1123,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
+        "text": "asi no es pia",
         "intent": "negativo",
         "entities": []
       },
@@ -1443,7 +1133,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
+        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -1453,72 +1143,7 @@
         "entities": []
       },
       {
-        "text": "pia asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "asi no es pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
         "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "nope pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no quiero eso",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrect",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -1528,12 +1153,92 @@
         "entities": []
       },
       {
+        "text": "pia asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "pia no esta bien",
         "intent": "negativo",
         "entities": []
       },
       {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no esta bien",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no quiero eso",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia incorrecto",
         "intent": "negativo",
         "entities": []
       },
@@ -1548,17 +1253,7 @@
         "entities": []
       },
       {
-        "text": "nope",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia nope",
+        "text": "no esta bien pia",
         "intent": "negativo",
         "entities": []
       },
@@ -1568,12 +1263,17 @@
         "entities": []
       },
       {
-        "text": "nope",
+        "text": "negativo pia",
         "intent": "negativo",
         "entities": []
       },
       {
         "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -1583,17 +1283,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
+        "text": "asi no es pia",
         "intent": "negativo",
         "entities": []
       },
@@ -1603,7 +1293,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
+        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -1613,72 +1303,7 @@
         "entities": []
       },
       {
-        "text": "pia asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "asi no es pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
         "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "nope pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no quiero eso",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrect",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -1688,12 +1313,92 @@
         "entities": []
       },
       {
+        "text": "pia asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "pia no esta bien",
         "intent": "negativo",
         "entities": []
       },
       {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no esta bien",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no quiero eso",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia incorrecto",
         "intent": "negativo",
         "entities": []
       },
@@ -1708,17 +1413,7 @@
         "entities": []
       },
       {
-        "text": "nope",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia nope",
+        "text": "no esta bien pia",
         "intent": "negativo",
         "entities": []
       },
@@ -1728,12 +1423,17 @@
         "entities": []
       },
       {
-        "text": "nope",
+        "text": "negativo pia",
         "intent": "negativo",
         "entities": []
       },
       {
         "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -1743,17 +1443,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
+        "text": "asi no es pia",
         "intent": "negativo",
         "entities": []
       },
@@ -1763,7 +1453,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
+        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -1773,72 +1463,7 @@
         "entities": []
       },
       {
-        "text": "pia asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "asi no es pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
         "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "nope pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no quiero eso",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrect",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -1848,12 +1473,92 @@
         "entities": []
       },
       {
+        "text": "pia asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "pia no esta bien",
         "intent": "negativo",
         "entities": []
       },
       {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no esta bien",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no quiero eso",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia incorrecto",
         "intent": "negativo",
         "entities": []
       },
@@ -1868,17 +1573,7 @@
         "entities": []
       },
       {
-        "text": "nope",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia nope",
+        "text": "no esta bien pia",
         "intent": "negativo",
         "entities": []
       },
@@ -1888,12 +1583,17 @@
         "entities": []
       },
       {
-        "text": "nope",
+        "text": "negativo pia",
         "intent": "negativo",
         "entities": []
       },
       {
         "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -1903,17 +1603,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
+        "text": "asi no es pia",
         "intent": "negativo",
         "entities": []
       },
@@ -1923,7 +1613,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
+        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -1933,72 +1623,7 @@
         "entities": []
       },
       {
-        "text": "pia asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "asi no es pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
         "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "nope pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no quiero eso",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrect",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -2008,12 +1633,92 @@
         "entities": []
       },
       {
+        "text": "pia asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "pia no esta bien",
         "intent": "negativo",
         "entities": []
       },
       {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no esta bien",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no quiero eso",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia incorrecto",
         "intent": "negativo",
         "entities": []
       },
@@ -2028,17 +1733,7 @@
         "entities": []
       },
       {
-        "text": "nope",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia nope",
+        "text": "no esta bien pia",
         "intent": "negativo",
         "entities": []
       },
@@ -2048,12 +1743,17 @@
         "entities": []
       },
       {
-        "text": "nope",
+        "text": "negativo pia",
         "intent": "negativo",
         "entities": []
       },
       {
         "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -2063,17 +1763,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
+        "text": "asi no es pia",
         "intent": "negativo",
         "entities": []
       },
@@ -2083,7 +1773,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
+        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -2093,72 +1783,7 @@
         "entities": []
       },
       {
-        "text": "pia asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "asi no es pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
         "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "nope pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no quiero eso",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrect",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -2168,12 +1793,92 @@
         "entities": []
       },
       {
+        "text": "pia asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "pia no esta bien",
         "intent": "negativo",
         "entities": []
       },
       {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no esta bien",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no quiero eso",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia incorrecto",
         "intent": "negativo",
         "entities": []
       },
@@ -2188,17 +1893,7 @@
         "entities": []
       },
       {
-        "text": "nope",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia nope",
+        "text": "no esta bien pia",
         "intent": "negativo",
         "entities": []
       },
@@ -2208,12 +1903,17 @@
         "entities": []
       },
       {
-        "text": "nope",
+        "text": "negativo pia",
         "intent": "negativo",
         "entities": []
       },
       {
         "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -2223,17 +1923,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
+        "text": "asi no es pia",
         "intent": "negativo",
         "entities": []
       },
@@ -2243,7 +1933,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
+        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -2253,72 +1943,7 @@
         "entities": []
       },
       {
-        "text": "pia asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "asi no es pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
         "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "nope pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no quiero eso",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrect",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -2328,12 +1953,92 @@
         "entities": []
       },
       {
+        "text": "pia asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "pia no esta bien",
         "intent": "negativo",
         "entities": []
       },
       {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no esta bien",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no quiero eso",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia incorrecto",
         "intent": "negativo",
         "entities": []
       },
@@ -2348,17 +2053,7 @@
         "entities": []
       },
       {
-        "text": "nope",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia nope",
+        "text": "no esta bien pia",
         "intent": "negativo",
         "entities": []
       },
@@ -2368,12 +2063,17 @@
         "entities": []
       },
       {
-        "text": "nope",
+        "text": "negativo pia",
         "intent": "negativo",
         "entities": []
       },
       {
         "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -2383,17 +2083,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
+        "text": "asi no es pia",
         "intent": "negativo",
         "entities": []
       },
@@ -2403,7 +2093,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
+        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -2413,72 +2103,7 @@
         "entities": []
       },
       {
-        "text": "pia asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "asi no es pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
         "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "nope pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no quiero eso",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrect",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -2488,12 +2113,92 @@
         "entities": []
       },
       {
+        "text": "pia asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "pia no esta bien",
         "intent": "negativo",
         "entities": []
       },
       {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no esta bien",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no quiero eso",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia incorrecto",
         "intent": "negativo",
         "entities": []
       },
@@ -2508,17 +2213,7 @@
         "entities": []
       },
       {
-        "text": "nope",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia nope",
+        "text": "no esta bien pia",
         "intent": "negativo",
         "entities": []
       },
@@ -2528,12 +2223,17 @@
         "entities": []
       },
       {
-        "text": "nope",
+        "text": "negativo pia",
         "intent": "negativo",
         "entities": []
       },
       {
         "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -2543,17 +2243,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
+        "text": "asi no es pia",
         "intent": "negativo",
         "entities": []
       },
@@ -2563,7 +2253,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
+        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -2573,72 +2263,7 @@
         "entities": []
       },
       {
-        "text": "pia asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "asi no es pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
         "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "nope pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no quiero eso",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrect",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -2648,12 +2273,92 @@
         "entities": []
       },
       {
+        "text": "pia asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "pia no esta bien",
         "intent": "negativo",
         "entities": []
       },
       {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no esta bien",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no quiero eso",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia incorrecto",
         "intent": "negativo",
         "entities": []
       },
@@ -2668,17 +2373,7 @@
         "entities": []
       },
       {
-        "text": "nope",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia nope",
+        "text": "no esta bien pia",
         "intent": "negativo",
         "entities": []
       },
@@ -2688,12 +2383,17 @@
         "entities": []
       },
       {
-        "text": "nope",
+        "text": "negativo pia",
         "intent": "negativo",
         "entities": []
       },
       {
         "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -2703,17 +2403,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
+        "text": "asi no es pia",
         "intent": "negativo",
         "entities": []
       },
@@ -2723,7 +2413,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
+        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -2733,72 +2423,7 @@
         "entities": []
       },
       {
-        "text": "pia asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "asi no es pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
         "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "nope pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no quiero eso",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrect",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -2808,12 +2433,92 @@
         "entities": []
       },
       {
+        "text": "pia asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "pia no esta bien",
         "intent": "negativo",
         "entities": []
       },
       {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no esta bien",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no quiero eso",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia incorrecto",
         "intent": "negativo",
         "entities": []
       },
@@ -2828,17 +2533,7 @@
         "entities": []
       },
       {
-        "text": "nope",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia nope",
+        "text": "no esta bien pia",
         "intent": "negativo",
         "entities": []
       },
@@ -2848,12 +2543,17 @@
         "entities": []
       },
       {
-        "text": "nope",
+        "text": "negativo pia",
         "intent": "negativo",
         "entities": []
       },
       {
         "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrect",
         "intent": "negativo",
         "entities": []
       },
@@ -2863,17 +2563,7 @@
         "entities": []
       },
       {
-        "text": "asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
+        "text": "asi no es pia",
         "intent": "negativo",
         "entities": []
       },
@@ -2883,42 +2573,12 @@
         "entities": []
       },
       {
-        "text": "asi no es",
+        "text": "pia incorrect",
         "intent": "negativo",
         "entities": []
       },
       {
         "text": "negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia asi no es",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrecto pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "asi no es pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia negativo",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "negativo pia",
         "intent": "negativo",
         "entities": []
       },
@@ -2928,42 +2588,22 @@
         "entities": []
       },
       {
-        "text": "incorrecto",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no esta bien pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "nope pia",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "no",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia no quiero eso",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "incorrect",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
-        "text": "pia incorrect",
-        "intent": "negativo",
-        "entities": []
-      },
-      {
         "text": "no quiero eso pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia nope",
         "intent": "negativo",
         "entities": []
       },
@@ -2973,7 +2613,72 @@
         "entities": []
       },
       {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no esta bien",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no quiero eso",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia incorrecto",
         "intent": "negativo",
         "entities": []
       },
@@ -2988,7 +2693,52 @@
         "entities": []
       },
       {
-        "text": "nope",
+        "text": "no esta bien pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no quiero eso",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "negativo pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrect",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrect pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "asi no es pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia incorrect",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "negativo",
         "intent": "negativo",
         "entities": []
       },
@@ -2998,7 +2748,257 @@
         "entities": []
       },
       {
+        "text": "no quiero eso pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
         "text": "pia nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no esta bien",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no esta bien",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no quiero eso",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrect",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no quiero eso",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no esta bien pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no quiero eso",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "negativo pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrect",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrect pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "asi no es pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia incorrect",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no esta bien",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no quiero eso pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no esta bien",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "asi no es",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no esta bien",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia negativo",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "incorrecto pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope pia",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia no quiero eso",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "negativo",
+        "entities": []
+      },
+      {
+        "text": "pia incorrecto",
         "intent": "negativo",
         "entities": []
       }

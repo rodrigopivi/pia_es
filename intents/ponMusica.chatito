@@ -1,10 +1,9 @@
 %[ponMusica]
     ~[hola]? ~[unaCancionDe] @[artista] ~[porfavor]?
-    ~[hola]? ~[ponCancion] de @[artista] ~[gracias]?
-    ~[queSuene] @[artista]
-    musica de @[artista]
+    ~[ponCancion] de @[artista]
+    ~[ponMusicaDe] @[artista]
     ~[queSuene] @[cancion] de @[artista]
-    ~[porfavor]? ~[ponCancion] @[cancion] de @[artista] ~[gracias]?
+    ~[porfavor]? ~[ponCancion] @[cancion] de @[artista]
 
 @[artista]
     beatles
@@ -26,6 +25,33 @@
     mana
     la ley
     bob marley
+    mana
+    los autenticos decadentes
+    sublime
+    la renga
+    artic monkeys
+    marea
+    el otro yo
+    la polla records
+    no religion
+    craddle of filth
+    peter pedro
+    los chapillacs
+    sublime with romeo
+    platero y tu
+    los tigres del norte
+    los temerarios
+    conjunto primavera
+    el grupo 5
+    sum 45
+    callao cartel
+    tres coronas
+    12 discipulos
+    korn
+    kortatu
+    chabelos
+    beethoven
+    mozart
 
 @[cancion]
     hey jude
@@ -56,26 +82,43 @@
     one dance
     havana
     beyond the senses
+    freak on a leash
+    el corazon partido
+    si te vas
+    que me queda
+    historia entre tus dedos
+    el gran varon
+    la noche es virgen
+    estamos atentos
+    los que saben
+    el baile de los que sobran
 
 ~[queSuene]
-    ponte musica de
-    pon musica
+    la cancion
+    pon el tema
     reproduce
     quiero que reproduzcas
-    pon play a
+    musica de
     que suene
     quiero escuchar
+
+~[ponMusicaDe]
+    pon musica de
     musica de
+    quiero escuchar a
+    reproduce algo de
+    temas musicales de
 
 ~[ponCancion]
     la cancion
     pon la cancion
     toca el tema
-    toca
+    reproduce
     quiero escuchar
     el tema
     la cancion
     quiero que pongas una cancion
+    pon la cancion
 
 ~[unaCancionDe]
     quiero escuchar una cancion de
@@ -84,14 +127,12 @@
     canciones de
     los temas de
     el tema de
-    pon la de
     play a la de
     quiero escuchar a
-    pon el tema de
-    quiero escuchar el tema de
+    reproduce a
+    pon musica de
 
 ~[hola]
-    hey
     hola
 
 ~[bot]

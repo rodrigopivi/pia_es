@@ -1,12 +1,12 @@
 %[saludos]
-    ~[hola]? ~[bot]? ~[comoEstas]?
-    un saludo ~[bot]?
+    ~[hola] ~[bot]? ~[comoEstas]?
 
 ~[hola]
     hey
     hi
     holi
     hola
+    saludos
 
 ~[bot]
     pia

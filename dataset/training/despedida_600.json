@@ -3,137 +3,17 @@
     "regex_features": [],
     "common_examples": [
       {
-        "text": "hablamos despues pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "ya me quito chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "buenas noches",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cuidate chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "pia cambio y fuera",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "adios pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "hasta luego",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "cambio y fuera",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "pia hablamos despues",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "pia me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cuidate chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "pia adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "pia ya me voy",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hasta luego pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cuidate chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "pia buenas noches",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "me despido pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "pia hasta luego",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "me despido",
         "intent": "despedida",
         "entities": []
       },
@@ -144,16 +24,6 @@
       },
       {
         "text": "chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "pia chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau pia",
         "intent": "despedida",
         "entities": []
       },
@@ -163,22 +33,87 @@
         "entities": []
       },
       {
+        "text": "cuidate chau pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "adios pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me voy",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
         "text": "ya me quito chau pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "adios",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego",
         "intent": "despedida",
         "entities": []
       },
       {
         "text": "adios",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia hasta luego",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hablamos despues",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia adios",
         "intent": "despedida",
         "entities": []
       },
@@ -193,72 +128,17 @@
         "entities": []
       },
       {
-        "text": "me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia cambio y fuera",
+        "text": "cambio y fuera pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "adios pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hasta luego",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
+        "text": "me despido",
         "intent": "despedida",
         "entities": []
       },
@@ -268,22 +148,7 @@
         "entities": []
       },
       {
-        "text": "pia me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cuidate chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "pia adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera pia",
+        "text": "pia chau",
         "intent": "despedida",
         "entities": []
       },
@@ -298,12 +163,12 @@
         "entities": []
       },
       {
-        "text": "hasta luego pia",
+        "text": "chau pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "cuidate chau",
+        "text": "pia cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -313,7 +178,7 @@
         "entities": []
       },
       {
-        "text": "pia buenas noches",
+        "text": "hablamos despues pia",
         "intent": "despedida",
         "entities": []
       },
@@ -323,17 +188,32 @@
         "entities": []
       },
       {
-        "text": "me despido pia",
+        "text": "pia buenas noches",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia hasta luego",
+        "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "me despido",
+        "text": "ya me voy",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -348,17 +228,22 @@
         "entities": []
       },
       {
-        "text": "pia chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "pia ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cuidate chau pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "adios pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me voy",
         "intent": "despedida",
         "entities": []
       },
@@ -368,17 +253,67 @@
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "adios",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego",
         "intent": "despedida",
         "entities": []
       },
       {
         "text": "adios",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia hasta luego",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hablamos despues",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia adios",
         "intent": "despedida",
         "entities": []
       },
@@ -393,72 +328,17 @@
         "entities": []
       },
       {
-        "text": "me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia cambio y fuera",
+        "text": "cambio y fuera pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "adios pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hasta luego",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
+        "text": "me despido",
         "intent": "despedida",
         "entities": []
       },
@@ -468,22 +348,7 @@
         "entities": []
       },
       {
-        "text": "pia me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cuidate chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "pia adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera pia",
+        "text": "pia chau",
         "intent": "despedida",
         "entities": []
       },
@@ -498,12 +363,12 @@
         "entities": []
       },
       {
-        "text": "hasta luego pia",
+        "text": "chau pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "cuidate chau",
+        "text": "pia cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -513,7 +378,7 @@
         "entities": []
       },
       {
-        "text": "pia buenas noches",
+        "text": "hablamos despues pia",
         "intent": "despedida",
         "entities": []
       },
@@ -523,17 +388,32 @@
         "entities": []
       },
       {
-        "text": "me despido pia",
+        "text": "pia buenas noches",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia hasta luego",
+        "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "me despido",
+        "text": "ya me voy",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -548,17 +428,22 @@
         "entities": []
       },
       {
-        "text": "pia chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "pia ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cuidate chau pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "adios pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me voy",
         "intent": "despedida",
         "entities": []
       },
@@ -568,17 +453,67 @@
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "adios",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego",
         "intent": "despedida",
         "entities": []
       },
       {
         "text": "adios",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia hasta luego",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hablamos despues",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia adios",
         "intent": "despedida",
         "entities": []
       },
@@ -593,72 +528,17 @@
         "entities": []
       },
       {
-        "text": "me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia cambio y fuera",
+        "text": "cambio y fuera pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "adios pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hasta luego",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
+        "text": "me despido",
         "intent": "despedida",
         "entities": []
       },
@@ -668,22 +548,7 @@
         "entities": []
       },
       {
-        "text": "pia me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cuidate chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "pia adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera pia",
+        "text": "pia chau",
         "intent": "despedida",
         "entities": []
       },
@@ -698,12 +563,12 @@
         "entities": []
       },
       {
-        "text": "hasta luego pia",
+        "text": "chau pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "cuidate chau",
+        "text": "pia cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -713,7 +578,7 @@
         "entities": []
       },
       {
-        "text": "pia buenas noches",
+        "text": "hablamos despues pia",
         "intent": "despedida",
         "entities": []
       },
@@ -723,17 +588,32 @@
         "entities": []
       },
       {
-        "text": "me despido pia",
+        "text": "pia buenas noches",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia hasta luego",
+        "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "me despido",
+        "text": "ya me voy",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -748,17 +628,22 @@
         "entities": []
       },
       {
-        "text": "pia chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "pia ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cuidate chau pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "adios pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me voy",
         "intent": "despedida",
         "entities": []
       },
@@ -768,17 +653,67 @@
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "adios",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego",
         "intent": "despedida",
         "entities": []
       },
       {
         "text": "adios",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia hasta luego",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hablamos despues",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia adios",
         "intent": "despedida",
         "entities": []
       },
@@ -793,72 +728,17 @@
         "entities": []
       },
       {
-        "text": "me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia cambio y fuera",
+        "text": "cambio y fuera pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "adios pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hasta luego",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
+        "text": "me despido",
         "intent": "despedida",
         "entities": []
       },
@@ -868,22 +748,7 @@
         "entities": []
       },
       {
-        "text": "pia me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cuidate chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "pia adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera pia",
+        "text": "pia chau",
         "intent": "despedida",
         "entities": []
       },
@@ -898,12 +763,12 @@
         "entities": []
       },
       {
-        "text": "hasta luego pia",
+        "text": "chau pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "cuidate chau",
+        "text": "pia cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -913,7 +778,7 @@
         "entities": []
       },
       {
-        "text": "pia buenas noches",
+        "text": "hablamos despues pia",
         "intent": "despedida",
         "entities": []
       },
@@ -923,17 +788,32 @@
         "entities": []
       },
       {
-        "text": "me despido pia",
+        "text": "pia buenas noches",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia hasta luego",
+        "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "me despido",
+        "text": "ya me voy",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -948,17 +828,22 @@
         "entities": []
       },
       {
-        "text": "pia chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "pia ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cuidate chau pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "adios pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me voy",
         "intent": "despedida",
         "entities": []
       },
@@ -968,17 +853,67 @@
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "adios",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego",
         "intent": "despedida",
         "entities": []
       },
       {
         "text": "adios",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia hasta luego",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hablamos despues",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia adios",
         "intent": "despedida",
         "entities": []
       },
@@ -993,72 +928,17 @@
         "entities": []
       },
       {
-        "text": "me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia cambio y fuera",
+        "text": "cambio y fuera pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "adios pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hasta luego",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
+        "text": "me despido",
         "intent": "despedida",
         "entities": []
       },
@@ -1068,22 +948,7 @@
         "entities": []
       },
       {
-        "text": "pia me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cuidate chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "pia adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera pia",
+        "text": "pia chau",
         "intent": "despedida",
         "entities": []
       },
@@ -1098,12 +963,12 @@
         "entities": []
       },
       {
-        "text": "hasta luego pia",
+        "text": "chau pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "cuidate chau",
+        "text": "pia cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -1113,7 +978,7 @@
         "entities": []
       },
       {
-        "text": "pia buenas noches",
+        "text": "hablamos despues pia",
         "intent": "despedida",
         "entities": []
       },
@@ -1123,17 +988,32 @@
         "entities": []
       },
       {
-        "text": "me despido pia",
+        "text": "pia buenas noches",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia hasta luego",
+        "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "me despido",
+        "text": "ya me voy",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -1148,17 +1028,22 @@
         "entities": []
       },
       {
-        "text": "pia chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "pia ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cuidate chau pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "adios pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me voy",
         "intent": "despedida",
         "entities": []
       },
@@ -1168,17 +1053,67 @@
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "adios",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego",
         "intent": "despedida",
         "entities": []
       },
       {
         "text": "adios",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia hasta luego",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hablamos despues",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia adios",
         "intent": "despedida",
         "entities": []
       },
@@ -1193,72 +1128,17 @@
         "entities": []
       },
       {
-        "text": "me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia cambio y fuera",
+        "text": "cambio y fuera pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "adios pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hasta luego",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
+        "text": "me despido",
         "intent": "despedida",
         "entities": []
       },
@@ -1268,22 +1148,7 @@
         "entities": []
       },
       {
-        "text": "pia me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cuidate chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "pia adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera pia",
+        "text": "pia chau",
         "intent": "despedida",
         "entities": []
       },
@@ -1298,12 +1163,12 @@
         "entities": []
       },
       {
-        "text": "hasta luego pia",
+        "text": "chau pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "cuidate chau",
+        "text": "pia cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -1313,7 +1178,7 @@
         "entities": []
       },
       {
-        "text": "pia buenas noches",
+        "text": "hablamos despues pia",
         "intent": "despedida",
         "entities": []
       },
@@ -1323,17 +1188,32 @@
         "entities": []
       },
       {
-        "text": "me despido pia",
+        "text": "pia buenas noches",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia hasta luego",
+        "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "me despido",
+        "text": "ya me voy",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -1348,17 +1228,22 @@
         "entities": []
       },
       {
-        "text": "pia chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "pia ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cuidate chau pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "adios pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me voy",
         "intent": "despedida",
         "entities": []
       },
@@ -1368,17 +1253,67 @@
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "adios",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego",
         "intent": "despedida",
         "entities": []
       },
       {
         "text": "adios",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia hasta luego",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hablamos despues",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia adios",
         "intent": "despedida",
         "entities": []
       },
@@ -1393,72 +1328,17 @@
         "entities": []
       },
       {
-        "text": "me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia cambio y fuera",
+        "text": "cambio y fuera pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "adios pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hasta luego",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
+        "text": "me despido",
         "intent": "despedida",
         "entities": []
       },
@@ -1468,22 +1348,7 @@
         "entities": []
       },
       {
-        "text": "pia me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cuidate chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "pia adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera pia",
+        "text": "pia chau",
         "intent": "despedida",
         "entities": []
       },
@@ -1498,12 +1363,12 @@
         "entities": []
       },
       {
-        "text": "hasta luego pia",
+        "text": "chau pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "cuidate chau",
+        "text": "pia cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -1513,7 +1378,7 @@
         "entities": []
       },
       {
-        "text": "pia buenas noches",
+        "text": "hablamos despues pia",
         "intent": "despedida",
         "entities": []
       },
@@ -1523,17 +1388,32 @@
         "entities": []
       },
       {
-        "text": "me despido pia",
+        "text": "pia buenas noches",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia hasta luego",
+        "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "me despido",
+        "text": "ya me voy",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -1548,17 +1428,22 @@
         "entities": []
       },
       {
-        "text": "pia chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "pia ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cuidate chau pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "adios pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me voy",
         "intent": "despedida",
         "entities": []
       },
@@ -1568,17 +1453,67 @@
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "adios",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego",
         "intent": "despedida",
         "entities": []
       },
       {
         "text": "adios",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia hasta luego",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hablamos despues",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia adios",
         "intent": "despedida",
         "entities": []
       },
@@ -1593,72 +1528,17 @@
         "entities": []
       },
       {
-        "text": "me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia cambio y fuera",
+        "text": "cambio y fuera pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "adios pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hasta luego",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
+        "text": "me despido",
         "intent": "despedida",
         "entities": []
       },
@@ -1668,22 +1548,7 @@
         "entities": []
       },
       {
-        "text": "pia me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cuidate chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "pia adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera pia",
+        "text": "pia chau",
         "intent": "despedida",
         "entities": []
       },
@@ -1698,12 +1563,12 @@
         "entities": []
       },
       {
-        "text": "hasta luego pia",
+        "text": "chau pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "cuidate chau",
+        "text": "pia cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -1713,7 +1578,7 @@
         "entities": []
       },
       {
-        "text": "pia buenas noches",
+        "text": "hablamos despues pia",
         "intent": "despedida",
         "entities": []
       },
@@ -1723,17 +1588,32 @@
         "entities": []
       },
       {
-        "text": "me despido pia",
+        "text": "pia buenas noches",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia hasta luego",
+        "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "me despido",
+        "text": "ya me voy",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -1748,17 +1628,22 @@
         "entities": []
       },
       {
-        "text": "pia chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "pia ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cuidate chau pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "adios pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me voy",
         "intent": "despedida",
         "entities": []
       },
@@ -1768,17 +1653,67 @@
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "adios",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego",
         "intent": "despedida",
         "entities": []
       },
       {
         "text": "adios",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia hasta luego",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hablamos despues",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia adios",
         "intent": "despedida",
         "entities": []
       },
@@ -1793,72 +1728,17 @@
         "entities": []
       },
       {
-        "text": "me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia cambio y fuera",
+        "text": "cambio y fuera pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "adios pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hasta luego",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
+        "text": "me despido",
         "intent": "despedida",
         "entities": []
       },
@@ -1868,22 +1748,7 @@
         "entities": []
       },
       {
-        "text": "pia me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cuidate chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "pia adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera pia",
+        "text": "pia chau",
         "intent": "despedida",
         "entities": []
       },
@@ -1898,12 +1763,12 @@
         "entities": []
       },
       {
-        "text": "hasta luego pia",
+        "text": "chau pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "cuidate chau",
+        "text": "pia cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -1913,7 +1778,7 @@
         "entities": []
       },
       {
-        "text": "pia buenas noches",
+        "text": "hablamos despues pia",
         "intent": "despedida",
         "entities": []
       },
@@ -1923,17 +1788,32 @@
         "entities": []
       },
       {
-        "text": "me despido pia",
+        "text": "pia buenas noches",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia hasta luego",
+        "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "me despido",
+        "text": "ya me voy",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -1948,17 +1828,22 @@
         "entities": []
       },
       {
-        "text": "pia chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "pia ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cuidate chau pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "adios pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me voy",
         "intent": "despedida",
         "entities": []
       },
@@ -1968,17 +1853,67 @@
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "adios",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego",
         "intent": "despedida",
         "entities": []
       },
       {
         "text": "adios",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia hasta luego",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hablamos despues",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia adios",
         "intent": "despedida",
         "entities": []
       },
@@ -1993,72 +1928,17 @@
         "entities": []
       },
       {
-        "text": "me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia cambio y fuera",
+        "text": "cambio y fuera pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "adios pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hasta luego",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
+        "text": "me despido",
         "intent": "despedida",
         "entities": []
       },
@@ -2068,22 +1948,7 @@
         "entities": []
       },
       {
-        "text": "pia me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cuidate chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "pia adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera pia",
+        "text": "pia chau",
         "intent": "despedida",
         "entities": []
       },
@@ -2098,12 +1963,12 @@
         "entities": []
       },
       {
-        "text": "hasta luego pia",
+        "text": "chau pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "cuidate chau",
+        "text": "pia cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -2113,7 +1978,7 @@
         "entities": []
       },
       {
-        "text": "pia buenas noches",
+        "text": "hablamos despues pia",
         "intent": "despedida",
         "entities": []
       },
@@ -2123,17 +1988,32 @@
         "entities": []
       },
       {
-        "text": "me despido pia",
+        "text": "pia buenas noches",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia hasta luego",
+        "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "me despido",
+        "text": "ya me voy",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -2148,17 +2028,22 @@
         "entities": []
       },
       {
-        "text": "pia chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "pia ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cuidate chau pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "adios pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me voy",
         "intent": "despedida",
         "entities": []
       },
@@ -2168,17 +2053,67 @@
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "adios",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego",
         "intent": "despedida",
         "entities": []
       },
       {
         "text": "adios",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia hasta luego",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hablamos despues",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia adios",
         "intent": "despedida",
         "entities": []
       },
@@ -2193,72 +2128,17 @@
         "entities": []
       },
       {
-        "text": "me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia cambio y fuera",
+        "text": "cambio y fuera pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "adios pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hasta luego",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
+        "text": "me despido",
         "intent": "despedida",
         "entities": []
       },
@@ -2268,22 +2148,7 @@
         "entities": []
       },
       {
-        "text": "pia me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cuidate chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "pia adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera pia",
+        "text": "pia chau",
         "intent": "despedida",
         "entities": []
       },
@@ -2298,12 +2163,12 @@
         "entities": []
       },
       {
-        "text": "hasta luego pia",
+        "text": "chau pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "cuidate chau",
+        "text": "pia cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -2313,7 +2178,7 @@
         "entities": []
       },
       {
-        "text": "pia buenas noches",
+        "text": "hablamos despues pia",
         "intent": "despedida",
         "entities": []
       },
@@ -2323,17 +2188,32 @@
         "entities": []
       },
       {
-        "text": "me despido pia",
+        "text": "pia buenas noches",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia hasta luego",
+        "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "me despido",
+        "text": "ya me voy",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -2348,17 +2228,22 @@
         "entities": []
       },
       {
-        "text": "pia chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "pia ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cuidate chau pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "adios pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me voy",
         "intent": "despedida",
         "entities": []
       },
@@ -2368,17 +2253,67 @@
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "adios",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego",
         "intent": "despedida",
         "entities": []
       },
       {
         "text": "adios",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia hasta luego",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hablamos despues",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia adios",
         "intent": "despedida",
         "entities": []
       },
@@ -2393,72 +2328,17 @@
         "entities": []
       },
       {
-        "text": "me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia cambio y fuera",
+        "text": "cambio y fuera pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "adios pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hasta luego",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
+        "text": "me despido",
         "intent": "despedida",
         "entities": []
       },
@@ -2468,22 +2348,7 @@
         "entities": []
       },
       {
-        "text": "pia me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cuidate chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "pia adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera pia",
+        "text": "pia chau",
         "intent": "despedida",
         "entities": []
       },
@@ -2498,12 +2363,12 @@
         "entities": []
       },
       {
-        "text": "hasta luego pia",
+        "text": "chau pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "cuidate chau",
+        "text": "pia cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -2513,7 +2378,7 @@
         "entities": []
       },
       {
-        "text": "pia buenas noches",
+        "text": "hablamos despues pia",
         "intent": "despedida",
         "entities": []
       },
@@ -2523,17 +2388,32 @@
         "entities": []
       },
       {
-        "text": "me despido pia",
+        "text": "pia buenas noches",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia hasta luego",
+        "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "me despido",
+        "text": "ya me voy",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -2548,17 +2428,22 @@
         "entities": []
       },
       {
-        "text": "pia chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "pia ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cuidate chau pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "adios pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me voy",
         "intent": "despedida",
         "entities": []
       },
@@ -2568,17 +2453,67 @@
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "adios",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego",
         "intent": "despedida",
         "entities": []
       },
       {
         "text": "adios",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia hasta luego",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hablamos despues",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia adios",
         "intent": "despedida",
         "entities": []
       },
@@ -2593,72 +2528,17 @@
         "entities": []
       },
       {
-        "text": "me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia cambio y fuera",
+        "text": "cambio y fuera pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "adios pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hasta luego",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
+        "text": "me despido",
         "intent": "despedida",
         "entities": []
       },
@@ -2668,22 +2548,7 @@
         "entities": []
       },
       {
-        "text": "pia me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cuidate chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "pia adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera pia",
+        "text": "pia chau",
         "intent": "despedida",
         "entities": []
       },
@@ -2698,12 +2563,12 @@
         "entities": []
       },
       {
-        "text": "hasta luego pia",
+        "text": "chau pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "cuidate chau",
+        "text": "pia cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -2713,7 +2578,7 @@
         "entities": []
       },
       {
-        "text": "pia buenas noches",
+        "text": "hablamos despues pia",
         "intent": "despedida",
         "entities": []
       },
@@ -2723,17 +2588,32 @@
         "entities": []
       },
       {
-        "text": "me despido pia",
+        "text": "pia buenas noches",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia hasta luego",
+        "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "me despido",
+        "text": "ya me voy",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -2748,17 +2628,22 @@
         "entities": []
       },
       {
-        "text": "pia chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "pia ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cuidate chau pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "adios pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me voy",
         "intent": "despedida",
         "entities": []
       },
@@ -2768,17 +2653,67 @@
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "adios",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego",
         "intent": "despedida",
         "entities": []
       },
       {
         "text": "adios",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia hasta luego",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hablamos despues",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia adios",
         "intent": "despedida",
         "entities": []
       },
@@ -2793,72 +2728,17 @@
         "entities": []
       },
       {
-        "text": "me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "ya me quito chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia cambio y fuera",
+        "text": "cambio y fuera pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "adios pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hasta luego",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "hablamos despues",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "buenas noches",
+        "text": "me despido",
         "intent": "despedida",
         "entities": []
       },
@@ -2868,22 +2748,7 @@
         "entities": []
       },
       {
-        "text": "pia me despido",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cuidate chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "pia adios",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "cambio y fuera pia",
+        "text": "pia chau",
         "intent": "despedida",
         "entities": []
       },
@@ -2898,12 +2763,12 @@
         "entities": []
       },
       {
-        "text": "hasta luego pia",
+        "text": "chau pia",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "cuidate chau",
+        "text": "pia cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -2913,7 +2778,7 @@
         "entities": []
       },
       {
-        "text": "pia buenas noches",
+        "text": "hablamos despues pia",
         "intent": "despedida",
         "entities": []
       },
@@ -2923,17 +2788,32 @@
         "entities": []
       },
       {
-        "text": "me despido pia",
+        "text": "pia buenas noches",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "pia hasta luego",
+        "text": "cuidate chau",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "me despido",
+        "text": "ya me voy",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cambio y fuera",
         "intent": "despedida",
         "entities": []
       },
@@ -2948,17 +2828,22 @@
         "entities": []
       },
       {
-        "text": "pia chau",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
-        "text": "chau pia",
-        "intent": "despedida",
-        "entities": []
-      },
-      {
         "text": "pia ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cuidate chau pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "adios pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me voy",
         "intent": "despedida",
         "entities": []
       },
@@ -2968,17 +2853,67 @@
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "adios",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "ya me voy",
+        "text": "ya me quito chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego",
         "intent": "despedida",
         "entities": []
       },
       {
         "text": "adios",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hasta luego pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia hasta luego",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "me despido",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hablamos despues",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia adios",
         "intent": "despedida",
         "entities": []
       },
@@ -2993,12 +2928,77 @@
         "entities": []
       },
       {
+        "text": "cuidate chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cambio y fuera pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
         "text": "me despido",
         "intent": "despedida",
         "entities": []
       },
       {
-        "text": "ya me quito chau",
+        "text": "pia hablamos despues",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia ya me voy",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "buenas noches pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "chau pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia cambio y fuera",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hablamos despues",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "hablamos despues pia",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cambio y fuera",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "pia buenas noches",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "cuidate chau",
+        "intent": "despedida",
+        "entities": []
+      },
+      {
+        "text": "ya me voy",
         "intent": "despedida",
         "entities": []
       }

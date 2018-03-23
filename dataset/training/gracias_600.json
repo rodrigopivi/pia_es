@@ -3,132 +3,17 @@
     "regex_features": [],
     "common_examples": [
       {
-        "text": "gracias pia",
+        "text": "de verdad gracias pia",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "muchas gracias pia",
+        "text": "te lo agradesco",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "thanks pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia muchas gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia grax",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax",
+        "text": "muchisimas gracias",
         "intent": "gracias",
         "entities": []
       },
@@ -138,37 +23,42 @@
         "entities": []
       },
       {
-        "text": "muchas gracias",
+        "text": "pia agradecida",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "pia thanks",
+        "text": "pia oye gracias",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "thank you very much pia",
+        "text": "thank you",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "pia super gracias",
+        "text": "te lo agradesco pia",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "thanks",
+        "text": "se agradece pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias",
         "intent": "gracias",
         "entities": []
       },
       {
         "text": "gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
         "intent": "gracias",
         "entities": []
       },
@@ -178,17 +68,12 @@
         "entities": []
       },
       {
-        "text": "thank you very much",
+        "text": "pia se agradece",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia lo maximo gracias",
+        "text": "agradecido pia",
         "intent": "gracias",
         "entities": []
       },
@@ -198,7 +83,137 @@
         "entities": []
       },
       {
-        "text": "estoy agradecido pia",
+        "text": "super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "se agradece",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia agradecido",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you very much",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "grax pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "en serio gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia thank you very much",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia grax",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you very much pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias",
         "intent": "gracias",
         "entities": []
       },
@@ -213,92 +228,7 @@
         "entities": []
       },
       {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
+        "text": "pia en serio gracias",
         "intent": "gracias",
         "entities": []
       },
@@ -308,62 +238,7 @@
         "entities": []
       },
       {
-        "text": "se agradece pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
         "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia grax",
         "intent": "gracias",
         "entities": []
       },
@@ -373,47 +248,27 @@
         "entities": []
       },
       {
-        "text": "super gracias pia",
+        "text": "agradecido",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "muchas gracias",
+        "text": "se agradece",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "pia thanks",
+        "text": "en serio gracias",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "thank you very much pia",
+        "text": "agradecido",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "pia super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad pia",
+        "text": "agradecida pia",
         "intent": "gracias",
         "entities": []
       },
@@ -423,7 +278,42 @@
         "entities": []
       },
       {
-        "text": "gracias",
+        "text": "pia gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "grax",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thanks pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "en serio gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thanks",
         "intent": "gracias",
         "entities": []
       },
@@ -433,12 +323,237 @@
         "entities": []
       },
       {
+        "text": "pia muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia thanks",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "super gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "se agradece pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia se agradece",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecido pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
         "text": "oye gracias pia",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "estoy agradecido pia",
+        "text": "super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "se agradece",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia agradecido",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you very much",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "grax pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "en serio gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia thank you very much",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia grax",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you very much pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias",
         "intent": "gracias",
         "entities": []
       },
@@ -453,92 +568,7 @@
         "entities": []
       },
       {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
+        "text": "pia en serio gracias",
         "intent": "gracias",
         "entities": []
       },
@@ -548,62 +578,7 @@
         "entities": []
       },
       {
-        "text": "se agradece pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
         "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia grax",
         "intent": "gracias",
         "entities": []
       },
@@ -613,47 +588,27 @@
         "entities": []
       },
       {
-        "text": "super gracias pia",
+        "text": "agradecido",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "muchas gracias",
+        "text": "se agradece",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "pia thanks",
+        "text": "en serio gracias",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "thank you very much pia",
+        "text": "agradecido",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "pia super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad pia",
+        "text": "agradecida pia",
         "intent": "gracias",
         "entities": []
       },
@@ -663,7 +618,42 @@
         "entities": []
       },
       {
-        "text": "gracias",
+        "text": "pia gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "grax",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thanks pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "en serio gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thanks",
         "intent": "gracias",
         "entities": []
       },
@@ -673,12 +663,237 @@
         "entities": []
       },
       {
+        "text": "pia muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia thanks",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "super gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "se agradece pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia se agradece",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecido pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
         "text": "oye gracias pia",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "estoy agradecido pia",
+        "text": "super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "se agradece",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia agradecido",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you very much",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "grax pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "en serio gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia thank you very much",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia grax",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you very much pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias",
         "intent": "gracias",
         "entities": []
       },
@@ -693,92 +908,7 @@
         "entities": []
       },
       {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
+        "text": "pia en serio gracias",
         "intent": "gracias",
         "entities": []
       },
@@ -788,62 +918,7 @@
         "entities": []
       },
       {
-        "text": "se agradece pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
         "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia grax",
         "intent": "gracias",
         "entities": []
       },
@@ -853,47 +928,27 @@
         "entities": []
       },
       {
-        "text": "super gracias pia",
+        "text": "agradecido",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "muchas gracias",
+        "text": "se agradece",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "pia thanks",
+        "text": "en serio gracias",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "thank you very much pia",
+        "text": "agradecido",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "pia super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad pia",
+        "text": "agradecida pia",
         "intent": "gracias",
         "entities": []
       },
@@ -903,7 +958,42 @@
         "entities": []
       },
       {
-        "text": "gracias",
+        "text": "pia gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "grax",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thanks pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "en serio gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thanks",
         "intent": "gracias",
         "entities": []
       },
@@ -913,12 +1003,237 @@
         "entities": []
       },
       {
+        "text": "pia muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia thanks",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "super gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "se agradece pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia se agradece",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecido pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
         "text": "oye gracias pia",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "estoy agradecido pia",
+        "text": "super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "se agradece",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia agradecido",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you very much",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "grax pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "en serio gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia thank you very much",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia grax",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you very much pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias",
         "intent": "gracias",
         "entities": []
       },
@@ -933,92 +1248,7 @@
         "entities": []
       },
       {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
+        "text": "pia en serio gracias",
         "intent": "gracias",
         "entities": []
       },
@@ -1028,62 +1258,7 @@
         "entities": []
       },
       {
-        "text": "se agradece pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
         "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia grax",
         "intent": "gracias",
         "entities": []
       },
@@ -1093,47 +1268,27 @@
         "entities": []
       },
       {
-        "text": "super gracias pia",
+        "text": "agradecido",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "muchas gracias",
+        "text": "se agradece",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "pia thanks",
+        "text": "en serio gracias",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "thank you very much pia",
+        "text": "agradecido",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "pia super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad pia",
+        "text": "agradecida pia",
         "intent": "gracias",
         "entities": []
       },
@@ -1143,7 +1298,42 @@
         "entities": []
       },
       {
-        "text": "gracias",
+        "text": "pia gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "grax",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thanks pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "en serio gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thanks",
         "intent": "gracias",
         "entities": []
       },
@@ -1153,12 +1343,237 @@
         "entities": []
       },
       {
+        "text": "pia muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia thanks",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "super gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "se agradece pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia se agradece",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecido pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
         "text": "oye gracias pia",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "estoy agradecido pia",
+        "text": "super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "se agradece",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia agradecido",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you very much",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "grax pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "en serio gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia thank you very much",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia grax",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you very much pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias",
         "intent": "gracias",
         "entities": []
       },
@@ -1173,92 +1588,7 @@
         "entities": []
       },
       {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
+        "text": "pia en serio gracias",
         "intent": "gracias",
         "entities": []
       },
@@ -1268,62 +1598,7 @@
         "entities": []
       },
       {
-        "text": "se agradece pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
         "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia grax",
         "intent": "gracias",
         "entities": []
       },
@@ -1333,47 +1608,27 @@
         "entities": []
       },
       {
-        "text": "super gracias pia",
+        "text": "agradecido",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "muchas gracias",
+        "text": "se agradece",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "pia thanks",
+        "text": "en serio gracias",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "thank you very much pia",
+        "text": "agradecido",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "pia super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad pia",
+        "text": "agradecida pia",
         "intent": "gracias",
         "entities": []
       },
@@ -1383,7 +1638,42 @@
         "entities": []
       },
       {
-        "text": "gracias",
+        "text": "pia gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "grax",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thanks pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "en serio gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thanks",
         "intent": "gracias",
         "entities": []
       },
@@ -1393,12 +1683,237 @@
         "entities": []
       },
       {
+        "text": "pia muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia thanks",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "super gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "se agradece pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia se agradece",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecido pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
         "text": "oye gracias pia",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "estoy agradecido pia",
+        "text": "super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "se agradece",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia agradecido",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you very much",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "grax pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "en serio gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia thank you very much",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia grax",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you very much pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias",
         "intent": "gracias",
         "entities": []
       },
@@ -1413,92 +1928,7 @@
         "entities": []
       },
       {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
+        "text": "pia en serio gracias",
         "intent": "gracias",
         "entities": []
       },
@@ -1508,62 +1938,7 @@
         "entities": []
       },
       {
-        "text": "se agradece pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
         "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia grax",
         "intent": "gracias",
         "entities": []
       },
@@ -1573,47 +1948,27 @@
         "entities": []
       },
       {
-        "text": "super gracias pia",
+        "text": "agradecido",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "muchas gracias",
+        "text": "se agradece",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "pia thanks",
+        "text": "en serio gracias",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "thank you very much pia",
+        "text": "agradecido",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "pia super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad pia",
+        "text": "agradecida pia",
         "intent": "gracias",
         "entities": []
       },
@@ -1623,7 +1978,42 @@
         "entities": []
       },
       {
-        "text": "gracias",
+        "text": "pia gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "grax",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thanks pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "en serio gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thanks",
         "intent": "gracias",
         "entities": []
       },
@@ -1633,12 +2023,237 @@
         "entities": []
       },
       {
+        "text": "pia muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia thanks",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "super gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "se agradece pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia se agradece",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecido pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
         "text": "oye gracias pia",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "estoy agradecido pia",
+        "text": "super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "se agradece",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia agradecido",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you very much",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "grax pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "en serio gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia thank you very much",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia grax",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you very much pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias",
         "intent": "gracias",
         "entities": []
       },
@@ -1653,92 +2268,7 @@
         "entities": []
       },
       {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
+        "text": "pia en serio gracias",
         "intent": "gracias",
         "entities": []
       },
@@ -1748,62 +2278,7 @@
         "entities": []
       },
       {
-        "text": "se agradece pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
         "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia grax",
         "intent": "gracias",
         "entities": []
       },
@@ -1813,47 +2288,27 @@
         "entities": []
       },
       {
-        "text": "super gracias pia",
+        "text": "agradecido",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "muchas gracias",
+        "text": "se agradece",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "pia thanks",
+        "text": "en serio gracias",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "thank you very much pia",
+        "text": "agradecido",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "pia super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad pia",
+        "text": "agradecida pia",
         "intent": "gracias",
         "entities": []
       },
@@ -1863,7 +2318,42 @@
         "entities": []
       },
       {
-        "text": "gracias",
+        "text": "pia gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "grax",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thanks pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "en serio gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thanks",
         "intent": "gracias",
         "entities": []
       },
@@ -1873,12 +2363,237 @@
         "entities": []
       },
       {
+        "text": "pia muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia thanks",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "super gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "se agradece pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia se agradece",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecido pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
         "text": "oye gracias pia",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "estoy agradecido pia",
+        "text": "super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "se agradece",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia agradecido",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you very much",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "grax pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "en serio gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia thank you very much",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia grax",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you very much pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias",
         "intent": "gracias",
         "entities": []
       },
@@ -1893,92 +2608,7 @@
         "entities": []
       },
       {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
+        "text": "pia en serio gracias",
         "intent": "gracias",
         "entities": []
       },
@@ -1988,62 +2618,7 @@
         "entities": []
       },
       {
-        "text": "se agradece pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
         "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia grax",
         "intent": "gracias",
         "entities": []
       },
@@ -2053,47 +2628,27 @@
         "entities": []
       },
       {
-        "text": "super gracias pia",
+        "text": "agradecido",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "muchas gracias",
+        "text": "se agradece",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "pia thanks",
+        "text": "en serio gracias",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "thank you very much pia",
+        "text": "agradecido",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "pia super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad pia",
+        "text": "agradecida pia",
         "intent": "gracias",
         "entities": []
       },
@@ -2103,7 +2658,42 @@
         "entities": []
       },
       {
-        "text": "gracias",
+        "text": "pia gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "grax",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thanks pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "en serio gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thanks",
         "intent": "gracias",
         "entities": []
       },
@@ -2113,12 +2703,237 @@
         "entities": []
       },
       {
+        "text": "pia muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia thanks",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "super gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "se agradece pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "de verdad gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia se agradece",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecido pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
         "text": "oye gracias pia",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "estoy agradecido pia",
+        "text": "super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "se agradece",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia agradecido",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchisimas gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "super gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you very much",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecida",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "te lo agradesco",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "grax pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "en serio gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia thank you very much",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "oye gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "pia grax",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "muchas gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "gracias de verdad",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you very much pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "lo maximo gracias",
         "intent": "gracias",
         "entities": []
       },
@@ -2133,92 +2948,7 @@
         "entities": []
       },
       {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
+        "text": "pia en serio gracias",
         "intent": "gracias",
         "entities": []
       },
@@ -2228,777 +2958,47 @@
         "entities": []
       },
       {
-        "text": "se agradece pia",
+        "text": "thanks",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "grax pia",
+        "text": "grax",
         "intent": "gracias",
         "entities": []
       },
       {
-        "text": "pia estoy agradecido",
+        "text": "agradecido",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "se agradece",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "en serio gracias",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecido",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "agradecida pia",
+        "intent": "gracias",
+        "entities": []
+      },
+      {
+        "text": "thank you very much",
         "intent": "gracias",
         "entities": []
       },
       {
         "text": "pia gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia grax",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you very much pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "oye gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia muchas gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia grax",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you very much pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "oye gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia muchas gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia grax",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you very much pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "oye gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia thank you very much",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "super gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "lo maximo gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia muchas gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "grax pia",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia estoy agradecido",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "oye gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "se agradece",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thank you",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "muchas gracias",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "gracias de verdad",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "thanks",
-        "intent": "gracias",
-        "entities": []
-      },
-      {
-        "text": "pia se agradece",
         "intent": "gracias",
         "entities": []
       }

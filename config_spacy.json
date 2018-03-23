@@ -5,7 +5,12 @@
     "data" : "./dataset/training",
     "cors_origins": ["*"],
     "language" : "es",
-    "num_threads": 4,
-    "max_training_processes": 4,
-    "spacy_model_name" : "es_core_news_md"
+    "num_threads": 1,
+    "max_training_processes": 1,
+    "spacy_model_name" : "es_core_news_md",
+    "intent_classifier_sklearn": {
+        "C": [1, 10, 100, 1000],
+        "gamma": [0.001, 0.0001],
+        "kernel": "rbf"
+    }
 }
